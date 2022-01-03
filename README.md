@@ -154,3 +154,4 @@ Check CONTRIBUTING.md
 # TODOs
 - [ ] Rearrange the topics in alphabetical order
 - [ ] Bifurcate or tag topics based on specialization (CV, NLP) etc
+- [ ] Add definitions for certain tasks
