@@ -110,6 +110,9 @@ Note: Not all of these links are actively maintained but some of them may serve 
 * [Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 * [XGBoost](https://github.com/dmlc/xgboost/tree/master/demo)
 * [Metric Learing](https://githubmate.com/repo/Adamdad/Awesome-metrics-learning)
+* Recommendation Systems
+    * [Recommendation Systems 1](https://github.com/jihoo-kim/awesome-RecSys)
+    * [Recommendation Systems 2](https://github.com/scnu-dil/awesome-RecSys)
 
 # Generic Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
