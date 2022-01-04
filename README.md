@@ -137,6 +137,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [NLP link 1](https://github.com/keon/awesome-nlp)
     * [NLP link 2](https://github.com/brianspiering/awesome-dl4nlp)
 * [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
+* [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 
 # Data and ML lifecycle
