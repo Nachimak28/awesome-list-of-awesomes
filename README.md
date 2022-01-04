@@ -147,6 +147,10 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Time series link 1](https://github.com/cuge1995/awesome-time-series)
     * [Time series link 2](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 * [Unsupervised/Weakly supervised learning](https://github.com/LongLong-Jing/awesome-unsupervised-learning)
+* Neural Rendering
+    * [Neural Rendering link 1](https://github.com/yenchenlin/awesome-NeRF)
+    * [Neural Rendering link 2](https://github.com/weihaox/awesome-neural-rendering)
+
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
