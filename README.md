@@ -153,6 +153,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * Neural Art & Style Transfer
     * [Neural Art](https://github.com/crypdick/awesome-neural-art)
     * [Style Transfer](https://github.com/neuralchen/awesome_style_transfer)
+* Deepfakes
+    * [Deepfakes link 1](https://github.com/aerophile/awesome-deepfakes)
+    * [Deepfakes link 2](https://github.com/Qingcsai/awesome-Deepfakes)
+* [Audio/Music](https://github.com/ybayle/awesome-deep-learning-music)
 
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
