@@ -150,6 +150,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * Neural Rendering
     * [Neural Rendering link 1](https://github.com/yenchenlin/awesome-NeRF)
     * [Neural Rendering link 2](https://github.com/weihaox/awesome-neural-rendering)
+* Neural Art & Style Transfer
+    * [Neural Art](https://github.com/crypdick/awesome-neural-art)
+    * [Style Transfer](https://github.com/neuralchen/awesome_style_transfer)
 
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
