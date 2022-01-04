@@ -114,6 +114,12 @@ There are multiple lists for certain topics which may or may not have common lin
 * Recommendation Systems
     * [Recommendation Systems link 1](https://github.com/jihoo-kim/awesome-RecSys)
     * [Recommendation Systems link 2](https://github.com/scnu-dil/awesome-RecSys)
+* [Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
+* [Pruning](https://github.com/he-y/Awesome-Pruning)
+* [Neural Ordinary Differential Equations (ODE)](https://github.com/Zymrael/awesome-neural-ode)
+* Autonomous Vehicles (FSD)
+    * [Autonomous Vehicles (FSD) link 1](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
+    * [Autonomous Vehicles (FSD) link 2](https://github.com/daohu527/awesome-self-driving-car)
 
 # Generic Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
