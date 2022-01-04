@@ -133,7 +133,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Transfer learning, Domain Adaption & Domain Generalization link 3](https://github.com/amber0309/Domain-generalization)
 * [Domain Adaption - Object detection](https://github.com/wangs311/awesome-domain-adaptation-object-detection)
 * [Image Restoration](https://github.com/oneTaken/Awesome-restoration)
-
+* [Variational Autoencoders](https://github.com/matthewvowels1/Awesome-VAEs)
+* Bayesian inference/Bayesian DL
+    * [Bayesian inference/Bayesian DL link 1](https://github.com/robi56/awesome-bayesian-deep-learning)
+    * [Bayesian inference/Bayesian DL link 2](https://github.com/dimenwarper/awesome-bayes)
 
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
