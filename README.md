@@ -173,8 +173,6 @@ There are multiple lists for certain topics which may or may not have common lin
     * [GPT 3 link 1](https://github.com/mikhail-bot/awesome-gpt3)
     * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
 
-
-
 # Data and ML lifecycle
 * Data Engineering
     * [Data Engineering link 1](https://github.com/igorbarinov/awesome-data-engineering)
@@ -193,6 +191,10 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
 
+# Cool books for modern applications
+* [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
+* [Distributed ML Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)
+* [Deep Learning Design Patterns](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/books/deep-learning-design-patterns)
 
 # Distributed systems and more
 * [ASGI](https://github.com/florimondmanca/awesome-asgi)
