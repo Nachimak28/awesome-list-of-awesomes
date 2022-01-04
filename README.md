@@ -126,6 +126,14 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Causal Inference/ML Link 2](https://github.com/imirzadeh/awesome-causal-inference)
     * [Causal Inference/ML Link 3](https://shubhanshu.com/awesome-causality/)
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
+* Transfer learning, Domain Adaption & Domain Generalization
+* [Transfer learning, Domain Adaption & Domain Generalization](https://github.com/artix41/awesome-transfer-learning)
+* [Transfer learning, Domain Adaption & Domain Generalization link 1](https://github.com/sun254/awesome-transfer-learning)
+* [Transfer learning, Domain Adaption & Domain Generalization link 2](https://github.com/zhaoxin94/awesome-domain-adaptation)
+* [Transfer learning, Domain Adaption & Domain Generalization link 3](https://github.com/amber0309/Domain-generalization)
+* [Domain Adaption - Object detection](https://github.com/wangs311/awesome-domain-adaptation-object-detection)
+
+
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
