@@ -144,7 +144,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Explainable AI(XAI)
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
-* [naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
+* [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
 
 
 # Distributed systems and more
