@@ -121,6 +121,10 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Autonomous Vehicles (FSD) link 1](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
     * [Autonomous Vehicles (FSD) link 2](https://github.com/daohu527/awesome-self-driving-car)
 * [Curriculum Learning](https://github.com/Openning07/awesome-curriculum-learning)
+* Causal Inference/ML
+    * [Causal Inference/ML Link 1](https://github.com/rguo12/awesome-causality-algorithms)
+    * [Causal Inference/ML Link 2](https://github.com/imirzadeh/awesome-causal-inference)
+    * [Causal Inference/ML Link 3](https://shubhanshu.com/awesome-causality/)
 
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
@@ -133,6 +137,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [NLP link 1](https://github.com/keon/awesome-nlp)
     * [NLP link 2](https://github.com/brianspiering/awesome-dl4nlp)
 * [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
+
 
 # Data and ML lifecycle
 * Data Engineering
