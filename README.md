@@ -130,11 +130,11 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Causal Inference/ML Link 3](https://shubhanshu.com/awesome-causality/)
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 * Transfer learning, Domain Adaption & Domain Generalization
-* [Transfer learning, Domain Adaption & Domain Generalization](https://github.com/artix41/awesome-transfer-learning)
-* [Transfer learning, Domain Adaption & Domain Generalization link 1](https://github.com/sun254/awesome-transfer-learning)
-* [Transfer learning, Domain Adaption & Domain Generalization link 2](https://github.com/zhaoxin94/awesome-domain-adaptation)
-* [Transfer learning, Domain Adaption & Domain Generalization link 3](https://github.com/amber0309/Domain-generalization)
-* [Domain Adaption - Object detection](https://github.com/wangs311/awesome-domain-adaptation-object-detection)
+    * [Transfer learning, Domain Adaption & Domain Generalization link 1](https://github.com/artix41/awesome-transfer-learning)
+    * [Transfer learning, Domain Adaption & Domain Generalization link 2](https://github.com/sun254/awesome-transfer-learning)
+    * [Transfer learning, Domain Adaption & Domain Generalization link 3](https://github.com/zhaoxin94/awesome-domain-adaptation)
+    * [Transfer learning, Domain Adaption & Domain Generalization link 4](https://github.com/amber0309/Domain-generalization)
+    * [Domain Adaption - Object detection](https://github.com/wangs311/awesome-domain-adaptation-object-detection)
 * [Image Restoration](https://github.com/oneTaken/Awesome-restoration)
 * [Variational Autoencoders](https://github.com/matthewvowels1/Awesome-VAEs)
 * Bayesian inference/Bayesian DL
@@ -191,7 +191,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
 
-# Cool books for modern applications
+# Cool books for modern ML, DL applications
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
 * [Distributed ML Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)
 * [Deep Learning Design Patterns](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/books/deep-learning-design-patterns)
