@@ -137,6 +137,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [NLP link 1](https://github.com/keon/awesome-nlp)
     * [NLP link 2](https://github.com/brianspiering/awesome-dl4nlp)
 * [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
+* GPT 3
+    * [GPT 3 link 1](https://github.com/mikhail-bot/awesome-gpt3)
+    * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
 
 
 
@@ -157,7 +160,6 @@ There are multiple lists for certain topics which may or may not have common lin
 * Explainable AI(XAI)
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
-
 
 
 # Distributed systems and more
