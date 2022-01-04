@@ -125,7 +125,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Causal Inference/ML Link 1](https://github.com/rguo12/awesome-causality-algorithms)
     * [Causal Inference/ML Link 2](https://github.com/imirzadeh/awesome-causal-inference)
     * [Causal Inference/ML Link 3](https://shubhanshu.com/awesome-causality/)
-
+* [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -137,7 +137,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [NLP link 1](https://github.com/keon/awesome-nlp)
     * [NLP link 2](https://github.com/brianspiering/awesome-dl4nlp)
 * [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
-* [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
+
 
 
 # Data and ML lifecycle
