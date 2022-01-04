@@ -120,6 +120,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Autonomous Vehicles (FSD)
     * [Autonomous Vehicles (FSD) link 1](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
     * [Autonomous Vehicles (FSD) link 2](https://github.com/daohu527/awesome-self-driving-car)
+* [Curriculum Learning](https://github.com/Openning07/awesome-curriculum-learning)
 
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
