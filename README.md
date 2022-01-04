@@ -20,6 +20,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Multitask learning](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning)
 * [Self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)
 * [Semi supervised learning](https://github.com/yassouali/awesome-semi-supervised-learning)
+* Weakly Supervised Image Segmentation
+    * [Weakly Supervised Image Segmentation link 1](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation-image)
+    * [Weakly Supervised Image Segmentation link 2](https://github.com/YimingCuiCuiCui/awesome-weakly-supervised-segmentation)
 * [Adversarial ML](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 * [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 * [Contrastive self supervised learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
@@ -137,7 +140,13 @@ There are multiple lists for certain topics which may or may not have common lin
 * Bayesian inference/Bayesian DL
     * [Bayesian inference/Bayesian DL link 1](https://github.com/robi56/awesome-bayesian-deep-learning)
     * [Bayesian inference/Bayesian DL link 2](https://github.com/dimenwarper/awesome-bayes)
-
+* [Deep Geometrical Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
+* [Drug Discovery](https://github.com/xnuohz/awesome-drug-discovery)
+* [Representation Learning](https://github.com/Mehooz/awesome-representation-learning)
+* Time series
+    * [Time series link 1](https://github.com/cuge1995/awesome-time-series)
+    * [Time series link 2](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+* [Unsupervised/Weakly supervised learning](https://github.com/LongLong-Jing/awesome-unsupervised-learning)
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -180,6 +189,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Python](https://github.com/vinta/awesome-python)
 * [Microservices](https://github.com/mfornos/awesome-microservices)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [Asyncio Python](https://github.com/timofurrer/awesome-asyncio)
 
 
 # Contribution guide
