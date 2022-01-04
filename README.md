@@ -121,7 +121,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Autonomous Vehicles (FSD) link 1](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
     * [Autonomous Vehicles (FSD) link 2](https://github.com/daohu527/awesome-self-driving-car)
 
-# Generic Deep learning, CV, NLP lists
+# Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Image processing applications with OpenCV](https://github.com/spmallick/learnopencv)
@@ -131,7 +131,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * NLP
     * [NLP link 1](https://github.com/keon/awesome-nlp)
     * [NLP link 2](https://github.com/brianspiering/awesome-dl4nlp)
-
+* [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
 
 # Data and ML lifecycle
 * Data Engineering
@@ -150,7 +150,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Explainable AI(XAI)
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
-* [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
+
 
 
 # Distributed systems and more
