@@ -169,7 +169,7 @@ There are multiple lists for certain topics which may or may not have common lin
 
 
 # Contribution guide
-Please to create an issue in case of broken link, typos or topic request. Feel free to create a Pull Request in case you find some new interesting awesome list, but before that verify if that same repo link isn't already a part of the existing list. 
+Please to create an issue in case of broken link, typos or topic request. Feel free to create a Pull Request in case you find some new interesting awesome list, but before that verify if that same repo link isn't already a part of the existing list. In case of multiple links for a single topic, if they are forks of each other, please raise a PR to fix that with the latest fork's link.
 
 
 # TODOs
