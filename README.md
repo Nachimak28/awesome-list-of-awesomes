@@ -204,7 +204,9 @@ There are multiple lists for certain topics which may or may not have common lin
 # Distributed systems and more
 * [ASGI](https://github.com/florimondmanca/awesome-asgi)
 * [Distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
-* [Python](https://github.com/vinta/awesome-python)
+* Python
+    * [Python link 1](https://github.com/vinta/awesome-python)
+    * [Python link 2](https://github.com/huangsam/ultimate-python)
 * [Microservices](https://github.com/mfornos/awesome-microservices)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [Asyncio Python](https://github.com/timofurrer/awesome-asyncio)
