@@ -80,8 +80,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Text to Image link 2](https://github.com/kunli-cs/Awesome-Text-to-Image-Synthesis)
 * [Speech recognition & synthesis](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 * [Speaker Diarization](https://github.com/wq2012/awesome-diarization)
-* [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+* [Video Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 * [Video understanding](https://github.com/sujiongming/awesome-video-understanding)
+* [Video Object Detection](https://github.com/ZHANGHeng19931123/awesome-video-object-detection)
 * Pose Estimation
     * [Pose estimation link 1](https://github.com/wangzheallen/awesome-human-pose-estimation)
     * [Pose estimation link 2](https://github.com/cbsudux/awesome-human-pose-estimation)
@@ -157,6 +158,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Deepfakes link 1](https://github.com/aerophile/awesome-deepfakes)
     * [Deepfakes link 2](https://github.com/Qingcsai/awesome-Deepfakes)
 * [Audio/Music](https://github.com/ybayle/awesome-deep-learning-music)
+* [Inverse Graphics](https://github.com/collinskatie/awesome-inverse-graphics)
 
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
