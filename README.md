@@ -159,6 +159,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Deepfakes link 2](https://github.com/Qingcsai/awesome-Deepfakes)
 * [Audio/Music](https://github.com/ybayle/awesome-deep-learning-music)
 * [Inverse Graphics](https://github.com/collinskatie/awesome-inverse-graphics)
+* Model Quantization
+    * [Model Quantization link 1](https://github.com/htqin/awesome-model-quantization)
+    * [Model Quantization link 2](https://github.com/ysbsb/awesome-quantization)
 
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
