@@ -166,7 +166,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Game AI link 1](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/tree/master/AI-Game-Theory)
     * [Game AI link 2](https://github.com/datamllab/awesome-game-ai)
 
-# Generic Data cycle, Deep learning, CV, NLP lists
+# Generic Data cycle, ML, DL, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Image processing applications with OpenCV](https://github.com/spmallick/learnopencv)
@@ -180,6 +180,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * GPT 3
     * [GPT 3 link 1](https://github.com/mikhail-bot/awesome-gpt3)
     * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
+* [Made With ML](https://github.com/GokuMohandas/MadeWithML)
 
 # Data and ML lifecycle
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
