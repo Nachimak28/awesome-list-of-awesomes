@@ -165,7 +165,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * Game AI
     * [Game AI link 1](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/tree/master/AI-Game-Theory)
     * [Game AI link 2](https://github.com/datamllab/awesome-game-ai)
-
+* Biomedical ML
+    * [Biomedical ML](https://github.com/DenseAI/awesome-biomedical-machine-learning)
+    * [ML in Biomed Healthcare imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
 # Generic Data cycle, ML, DL, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
