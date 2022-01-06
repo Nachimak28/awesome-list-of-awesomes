@@ -162,6 +162,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * Model Quantization
     * [Model Quantization link 1](https://github.com/htqin/awesome-model-quantization)
     * [Model Quantization link 2](https://github.com/ysbsb/awesome-quantization)
+* Game AI
+    * [Game AI link 1](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/tree/master/AI-Game-Theory)
+    * [Game AI link 2](https://github.com/datamllab/awesome-game-ai)
 
 # Generic Data cycle, Deep learning, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
