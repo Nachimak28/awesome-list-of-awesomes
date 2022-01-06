@@ -168,6 +168,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * Biomedical ML
     * [Biomedical ML](https://github.com/DenseAI/awesome-biomedical-machine-learning)
     * [ML in Biomed Healthcare imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
+* Financial ML/Quantitative Finance
+    * [Financial ML](https://github.com/firmai/financial-machine-learning)
+    * [Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)
+
 # Generic Data cycle, ML, DL, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -184,6 +188,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
 * [Made With ML](https://github.com/GokuMohandas/MadeWithML)
 
+
 # Data and ML lifecycle
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
 * Data Engineering
@@ -191,9 +196,10 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Data Engineering link 2](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 * [Data Labeling](https://github.com/heartexlabs/awesome-data-labelinhttps://github.com/heartexlabs/awesome-data-labelingg)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
-* Production level DL
+* Production level ML/DL
     * [Production level DL link 1](https://github.com/alirezadir/Production-Level-Deep-Learning)
     * [Production level DL link 2](https://github.com/ahkarami/Deep-Learning-in-Production)
+    * [Production level ML](https://github.com/EthicalML/awesome-production-machine-learning)
 * [ML system design](https://github.com/chiphuyen/machine-learning-systems-design)
 * [Applied ML](https://github.com/eugeneyan/applied-ml)
 * MLOps
@@ -203,6 +209,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
 * [Kaggle Solutions](https://farid.one/kaggle-solutions/)
+* [Ethical AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 
 # Cool books for modern ML, DL applications
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
