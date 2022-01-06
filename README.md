@@ -179,6 +179,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
 
 # Data and ML lifecycle
+* [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
 * Data Engineering
     * [Data Engineering link 1](https://github.com/igorbarinov/awesome-data-engineering)
     * [Data Engineering link 2](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
@@ -195,6 +196,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Explainable AI(XAI)
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
+* [Kaggle Solutions](https://farid.one/kaggle-solutions/)
 
 # Cool books for modern ML, DL applications
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
