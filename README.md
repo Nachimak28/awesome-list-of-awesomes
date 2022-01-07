@@ -194,6 +194,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Biomedical ML](https://github.com/DenseAI/awesome-biomedical-machine-learning)
     * [ML in Biomed Healthcare imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
     * [Neuron segmentation in EM images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
+    * [Medical imaging](https://github.com/fepegar/awesome-medical-imaging)
 * Financial ML/Quantitative Finance
     * [Financial ML](https://github.com/firmai/financial-machine-learning)
     * [Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)
