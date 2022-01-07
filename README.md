@@ -205,6 +205,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * NLP
     * [NLP link 1](https://github.com/keon/awesome-nlp)
     * [NLP link 2](https://github.com/brianspiering/awesome-dl4nlp)
+    * [NLP link 3](https://github.com/ivan-bilan/The-NLP-Pandect)
 * [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
 * GPT 3
     * [GPT 3 link 1](https://github.com/mikhail-bot/awesome-gpt3)
