@@ -24,7 +24,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Weakly Supervised Image Segmentation link 1](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation-image)
     * [Weakly Supervised Image Segmentation link 2](https://github.com/YimingCuiCuiCui/awesome-weakly-supervised-segmentation)
 * [Learning with Label noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
-* [Adversarial ML](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+* Adversarial ML/DL
+    * [Adversarial ML](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+    * [Adversarial Examples for Deep learning](https://github.com/chbrian/awesome-adversarial-examples-dl)
 * [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 * [Contrastive self supervised learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
 * [Zero shot learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning)
@@ -51,6 +53,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Image matting](https://github.com/michaelowenliu/awesome-image-matting)
 * [Image inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
 * [Image Harmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
+* Face
+    * [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+    * [Face related resources](https://github.com/polarisZhao/awesome-face)
 * [Conformal predictions](https://github.com/valeman/awesome-conformal-prediction)
 * [Scene understanding](https://github.com/bertjiazheng/awesome-scene-understanding)
 * Panoptic Segmentation
@@ -168,9 +173,8 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Time series link 1](https://github.com/cuge1995/awesome-time-series)
     * [Time series link 2](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 * [Unsupervised/Weakly supervised learning](https://github.com/LongLong-Jing/awesome-unsupervised-learning)
-* Neural Rendering
-    * [Neural Rendering link 1](https://github.com/yenchenlin/awesome-NeRF)
-    * [Neural Rendering link 2](https://github.com/weihaox/awesome-neural-rendering)
+* [Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
+* [Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)
 * Neural Art & Style Transfer
     * [Neural Art](https://github.com/crypdick/awesome-neural-art)
     * [Style Transfer](https://github.com/neuralchen/awesome_style_transfer)
@@ -194,9 +198,12 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Financial ML](https://github.com/firmai/financial-machine-learning)
     * [Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)
 * [Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
+* [Mobile Machine Learning](https://giters.com/mzkaramat/Awesome-Mobile-Machine-Learning)
+* [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
 # Generic Data cycle, ML, DL, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Image processing applications with OpenCV](https://github.com/spmallick/learnopencv)
 * [DL papers](https://github.com/terryum/awesome-deep-learning-papers)
@@ -215,6 +222,8 @@ There are multiple lists for certain topics which may or may not have common lin
 
 # Data and ML lifecycle
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
+* [Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
+* [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * Data Engineering
     * [Data Engineering link 1](https://github.com/igorbarinov/awesome-data-engineering)
     * [Data Engineering link 2](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
