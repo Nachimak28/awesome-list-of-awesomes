@@ -23,6 +23,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Weakly Supervised Image Segmentation
     * [Weakly Supervised Image Segmentation link 1](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation-image)
     * [Weakly Supervised Image Segmentation link 2](https://github.com/YimingCuiCuiCui/awesome-weakly-supervised-segmentation)
+* [Learning with Label noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
 * [Adversarial ML](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 * [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 * [Contrastive self supervised learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
@@ -30,6 +31,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [One shot learning](https://awesomeopensource.com/projects/one-shot-learning)
 * [Few shot learning](https://github.com/e-271/awesome-few-shot-learning)
 * [Siamese networks](https://awesomeopensource.com/projects/siamese-network)
+* [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
 * [Contrastive learning](https://github.com/VainF/Awesome-Contrastive-Learning)
 * [Visual transformers](https://github.com/dk-liang/Awesome-Visual-Transformer)
 * [Transformers for vision](https://github.com/lijiaman/awesome-transformer-for-vision)
@@ -41,23 +43,28 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Meta learning link 2](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 * [Deep learning uncertainty](https://github.com/ahmedmalaa/deep-learning-uncertainty)
 * [Semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+* [Image Delineation](https://github.com/subeeshvasu/Awsome_Delineation)
 * Long tailed recognition/learning
     * [Long tailed recognition link 1](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)
     * [Long tailed recognition link 2](https://github.com/Stomach-ache/awesome-long-tailed-learning)
     * [Long tailed recognition link 3](https://github.com/Vanint/Awesome-LongTailed-Learning)
 * [Image matting](https://github.com/michaelowenliu/awesome-image-matting)
 * [Image inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
+* [Image Harmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
 * [Conformal predictions](https://github.com/valeman/awesome-conformal-prediction)
 * [Scene understanding](https://github.com/bertjiazheng/awesome-scene-understanding)
 * Panoptic Segmentation
     * [Panoptic Segmentation link 1](https://github.com/Angzz/awesome-panoptic-segmentation)
     * [Panoptic Segmentation link 2](https://github.com/YimingCuiCuiCui/Awesome-Panoptic-Segmentation-Papers)
-* Object Detection
+* Object Tracking and Detection
     * [Object Detection link 1](https://github.com/amusi/awesome-object-detection)
     * [Object Detection link 2](https://github.com/daicoolb/Awesome-Object-Detections)
+    * [Object Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 * Image Denoising
     * [Image Denoising link 1](https://github.com/oneTaken/Awesome-Denoise)
     * [Image Denoising link 2](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
+* [Image Distortion correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
+* [Image Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 * [Continual Learning/Lifelong learning](https://github.com/prprbr/awesome-lifelong-continual-learning)
 * Multimodal learning
     * [Multimodal learning link 1](https://github.com/pliang279/awesome-multimodal-ml)
@@ -69,6 +76,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Knowledge Distillation
     * [Knowledge distillation link 1](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
     * [Knowledge distillation link 2](https://github.com/dkozlov/awesome-knowledge-distillation)
+* [Anomaly detection](https://github.com/hoya012/awesome-anomaly-detection)
 * [Local Global Descriptors](https://github.com/shamangary/awesome-local-global-descriptor)
 * Image Captioning
     * [Image Captioning link 1](https://github.com/zhjohnchan/awesome-image-captioning)
@@ -78,11 +86,16 @@ There are multiple lists for certain topics which may or may not have common lin
 * Text to Image synthesis
     * [Text to Image link 1](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
     * [Text to Image link 2](https://github.com/kunli-cs/Awesome-Text-to-Image-Synthesis)
+* [Deep HDR Image synthesis](https://github.com/vinthony/awesome-deep-hdr)
 * [Speech recognition & synthesis](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 * [Speaker Diarization](https://github.com/wq2012/awesome-diarization)
-* [Video Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
-* [Video understanding](https://github.com/sujiongming/awesome-video-understanding)
-* [Video Object Detection](https://github.com/ZHANGHeng19931123/awesome-video-object-detection)
+* Video Analysis
+    * [Video analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
+    * [Video Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+    * [Video understanding](https://github.com/sujiongming/awesome-video-understanding)
+    * [Video Object Detection](https://github.com/ZHANGHeng19931123/awesome-video-object-detection)
+    * [Video Text Retrieval](https://github.com/danieljf24/awesome-video-text-retrieval)
+* [Video Generation](https://github.com/matthewvowels1/Awesome-Video-Generation)
 * Pose Estimation
     * [Pose estimation link 1](https://github.com/wangzheallen/awesome-human-pose-estimation)
     * [Pose estimation link 2](https://github.com/cbsudux/awesome-human-pose-estimation)
@@ -94,6 +107,8 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Question Answering link 1](https://github.com/seriousran/awesome-qa)
     * [Question Answering link 2](https://github.com/dapurv5/awesome-question-answering)
     * [Question Answering link 3](https://github.com/monk1337/Awesome-Question-Answering)
+* [Vision and Language Pretrained models](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
+* [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln)
 * [Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 * [Knowledge Graph Question Answering](https://github.com/BshoterJ/awesome-kgqa)
 * Text Summarization
@@ -102,6 +117,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Optical Character Recognition (OCR)
     * [Optical Character Recognition (OCR) link 1](https://github.com/kba/awesome-ocr)
     * [Optical Character Recognition (OCR) link 2](https://github.com/zacharywhitley/awesome-ocr)
+* [Document understanding](https://github.com/tstanislawek/awesome-document-understanding)
 * Graph Neural Networks (GNN)
     * [Graph Neural Networks (GNN) link 1](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks)
     * [Graph Neural Networks (GNN) link 2](https://github.com/thunlp/GNNPapers)
@@ -109,6 +125,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * Generative Adversarial Networks (GAN)
     * [Generative Adversarial Networks (GAN) link 1](https://github.com/nightrome/really-awesome-gan)
     * [Generative Adversarial Networks (GAN) link 2](https://github.com/kozistr/Awesome-GANs)
+    * [GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
+    * [GAN Applications](https://github.com/nashory/gans-awesome-applications)
+* [Generative Modelling](https://github.com/zhoubolei/awesome-generative-modeling)
 * [Optical Flow](https://github.com/antran89/awesome-optical-flow-algorithm)
 * [360 vision](https://github.com/hsientzucheng/awesome-360-vision)
 * [Energy based models](https://github.com/yataobian/awesome-ebm)
@@ -124,6 +143,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Autonomous Vehicles (FSD)
     * [Autonomous Vehicles (FSD) link 1](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
     * [Autonomous Vehicles (FSD) link 2](https://github.com/daohu527/awesome-self-driving-car)
+* [Robotics](https://github.com/kiloreux/awesome-robotics)
 * [Curriculum Learning](https://github.com/Openning07/awesome-curriculum-learning)
 * Causal Inference/ML
     * [Causal Inference/ML Link 1](https://github.com/rguo12/awesome-causality-algorithms)
@@ -157,6 +177,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Deepfakes
     * [Deepfakes link 1](https://github.com/aerophile/awesome-deepfakes)
     * [Deepfakes link 2](https://github.com/Qingcsai/awesome-Deepfakes)
+* [Makeup transfer](https://github.com/thaoshibe/awesome-makeup-transfer)
 * [Audio/Music](https://github.com/ybayle/awesome-deep-learning-music)
 * [Inverse Graphics](https://github.com/collinskatie/awesome-inverse-graphics)
 * Model Quantization
@@ -168,9 +189,11 @@ There are multiple lists for certain topics which may or may not have common lin
 * Biomedical ML
     * [Biomedical ML](https://github.com/DenseAI/awesome-biomedical-machine-learning)
     * [ML in Biomed Healthcare imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
+    * [Neuron segmentation in EM images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
 * Financial ML/Quantitative Finance
     * [Financial ML](https://github.com/firmai/financial-machine-learning)
     * [Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)
+* [Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
 
 # Generic Data cycle, ML, DL, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
@@ -208,6 +231,8 @@ There are multiple lists for certain topics which may or may not have common lin
 * Explainable AI(XAI)
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
+* [ML Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+* [Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
 * [Kaggle Solutions](https://farid.one/kaggle-solutions/)
 * [Ethical AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 
