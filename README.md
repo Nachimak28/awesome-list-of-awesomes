@@ -203,6 +203,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Financial ML/Quantitative Finance
     * [Financial ML](https://github.com/firmai/financial-machine-learning)
     * [Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)
+    * [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)
 * [Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
 * [Mobile Machine Learning](https://giters.com/mzkaramat/Awesome-Mobile-Machine-Learning)
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
@@ -210,6 +211,14 @@ There are multiple lists for certain topics which may or may not have common lin
     * [AutoML link 1](https://github.com/windmaple/awesome-AutoML)
     * [AutoML link 2](https://github.com/hibayesian/awesome-automl-papers)
     * [AutoML link 3](https://github.com/oskar-j/awesome-auto-ml)
+* Chatbot projects
+    * [Chatbot projects link 1](https://github.com/fendouai/Awesome-Chatbot)
+    * [Chatbot projects link 2](https://github.com/JStumpp/awesome-chatbots)
+* [Conversational AI](https://awesomeopensource.com/projects/conversational-ai)
+* AI for climate change
+    * [AI for climate change link 1](https://github.com/shankarj67/Awesome-Climate-Change-AI)
+    * [AI for climate change link 2](https://github.com/juannat7/Awesome-Climate-AI)
+
 
 # Generic Data cycle, ML, DL, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
@@ -248,6 +257,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * MLOps
     * [MLOps link 1](https://github.com/visenger/awesome-mlops)
     * [MLOps link 2](https://github.com/kelvins/awesome-mlops)
+* [AIOps](https://github.com/fititnt/awesome-aiops)
 * Explainable AI(XAI)
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
     * [Explainable AI (XAI) link 2](https://github.com/altamiracorp/awesome-xai)
