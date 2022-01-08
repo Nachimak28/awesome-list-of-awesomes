@@ -292,6 +292,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Microservices link 2](https://github.com/ivan-bilan/The-Microservices-Pandect)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [Asyncio Python](https://github.com/timofurrer/awesome-asyncio)
+* Knowledge graphs
+    * [Knowledge graphs link 1](https://github.com/totogo/awesome-knowledge-graph)
+    * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
 
 
 # Contribution guide
