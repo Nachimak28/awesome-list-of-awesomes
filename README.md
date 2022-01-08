@@ -208,7 +208,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Quantitative Finance](https://github.com/wilsonfreitas/awesome-quant)
     * [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)
 * [Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
-* [Mobile Machine Learning](https://giters.com/mzkaramat/Awesome-Mobile-Machine-Learning)
+* Embedded and Mobile ML
+    * [Mobile Machine Learning](https://giters.com/mzkaramat/Awesome-Mobile-Machine-Learning)
+    * [Embedded and Mobile ML](https://github.com/csarron/awesome-emdl)
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 * AutoML
     * [AutoML link 1](https://github.com/windmaple/awesome-AutoML)
