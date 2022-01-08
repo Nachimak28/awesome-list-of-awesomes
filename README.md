@@ -20,7 +20,8 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Multitask learning](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning)
 * [Self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)
 * [Semi supervised learning](https://github.com/yassouali/awesome-semi-supervised-learning)
-* Weakly Supervised Image Segmentation
+* Weakly Supervised Learning
+    * [Weak Supervision](https://github.com/JieyuZ2/Awesome-Weak-Supervision)
     * [Weakly Supervised Image Segmentation link 1](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation-image)
     * [Weakly Supervised Image Segmentation link 2](https://github.com/YimingCuiCuiCui/awesome-weakly-supervised-segmentation)
 * [Learning with Label noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
