@@ -224,7 +224,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [GPT 3 link 1](https://github.com/mikhail-bot/awesome-gpt3)
     * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
 * [Made With ML](https://github.com/GokuMohandas/MadeWithML)
-
+* [Guide to Pytorch Learning Rate Scheduling](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling)
 
 # Data and ML lifecycle
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
