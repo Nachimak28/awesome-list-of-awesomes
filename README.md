@@ -142,7 +142,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * [360 vision](https://github.com/hsientzucheng/awesome-360-vision)
 * [Energy based models](https://github.com/yataobian/awesome-ebm)
 * [Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
-* [XGBoost](https://github.com/dmlc/xgboost/tree/master/demo)
+* Gradient Boosting Models
+    * [XGBoost](https://github.com/dmlc/xgboost/tree/master/demo)
+    * [Gradient Boosting Machines (GBMs)](https://github.com/szilard/awesome-GBMs)
+    * [Gradient Boosting](https://github.com/talperetz/awesome-gradient-boosting)
 * [Metric Learing](https://githubmate.com/repo/Adamdad/Awesome-metrics-learning)
 * Recommendation Systems
     * [Recommendation Systems link 1](https://github.com/jihoo-kim/awesome-RecSys)
