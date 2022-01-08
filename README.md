@@ -260,6 +260,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
 * [Distributed ML Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)
 * [Deep Learning Design Patterns](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/books/deep-learning-design-patterns)
+* [PyTorch Computer Vision Cookbook - 70 recipes](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook)
 
 # Distributed systems and more
 * [ASGI](https://github.com/florimondmanca/awesome-asgi)
