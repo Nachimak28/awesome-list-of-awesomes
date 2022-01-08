@@ -17,6 +17,10 @@ There are multiple lists for certain topics which may or may not have common lin
 
 # Topic wise ML and DL research
 
+* Data augmentation
+    * [Data Augmentation link 1](https://github.com/CrazyVertigo/awesome-data-augmentation)
+    * [Data Augmentation link 2](https://brunokrinski.github.io/awesome-data-augmentation/)
+    * [Data Augmentation review](https://github.com/AgaMiko/data-augmentation-review)
 * [Multitask learning](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning)
 * [Self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)
 * [Semi supervised learning](https://github.com/yassouali/awesome-semi-supervised-learning)
