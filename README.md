@@ -206,6 +206,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
 * [Mobile Machine Learning](https://giters.com/mzkaramat/Awesome-Mobile-Machine-Learning)
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
+* AutoML
+    * [AutoML link 1](https://github.com/windmaple/awesome-AutoML)
+    * [AutoML link 2](https://github.com/hibayesian/awesome-automl-papers)
+    * [AutoML link 3](https://github.com/oskar-j/awesome-auto-ml)
 
 # Generic Data cycle, ML, DL, CV, NLP lists
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
