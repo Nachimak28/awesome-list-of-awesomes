@@ -92,6 +92,10 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Image Captioning link 1](https://github.com/zhjohnchan/awesome-image-captioning)
     * [Image Captioning link 2](https://github.com/forence/Awesome-Visual-Captioning)
 * [Image to Image translation](https://github.com/weihaox/awesome-image-translation)
+* Image Registration
+    * [Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration)
+    * [Point Cloud registration](https://github.com/Awesome-Image-Registration-Organization/Point-cloud-registration)
+    * [2D-3D Matching](https://github.com/Awesome-Image-Registration-Organization/2D-3D-matching)
 * [Text To Speech](https://github.com/seungwonpark/awesome-tts-samples)
 * Text to Image synthesis
     * [Text to Image link 1](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
