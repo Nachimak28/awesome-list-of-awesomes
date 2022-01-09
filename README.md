@@ -305,10 +305,14 @@ There are multiple lists for certain topics which may or may not have common lin
 
 
 # Contribution guide
-Please to create an issue in case of broken link and typos. Feel free to create a Pull Request in case you find some new interesting awesome list and wish to add it yourself or help out in completing the TODOs, but before that verify if that same repo link isn't already a part of the existing list. In case of multiple links for a single topic, if they are forks of each other, please raise a PR to fix that with the latest fork's link.
+* Please to create an issue in case of broken link or typos. 
+* Feel free to create a Pull Request in case you find some new interesting awesome list and wish to add it yourself or help out in completing the TODOs, 
+* Before adding a new list, please verify if that same repo/link isn't already a part of the existing list.
+* In case of multiple links for a single topic, if they are forks of each other, please raise a PR to fix that with the latest fork's link.
 
 
 # TODOs
+- [ ] Convert README to a tabular format
 - [ ] Rearrange the topics in alphabetical order
 - [ ] Add definitions for tasks if needed
-- [ ] Convert README to a tabular format
+
