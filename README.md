@@ -247,6 +247,10 @@ There are multiple lists for certain topics which may or may not have common lin
     * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
 * [Made With ML](https://github.com/GokuMohandas/MadeWithML)
 * [Guide to Pytorch Learning Rate Scheduling](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling)
+* PyTorch
+* [PyTorch link 1](https://github.com/bharathgs/Awesome-pytorch-list)
+* [PyTorch link 2](https://github.com/rickiepark/awesome-pytorch)
+* [PyTorch link 3](https://www.ritchieng.com/the-incredible-pytorch/)
 
 # Data and ML lifecycle
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
@@ -301,7 +305,7 @@ There are multiple lists for certain topics which may or may not have common lin
 
 
 # Contribution guide
-Please to create an issue in case of broken link, typos or topic request. Feel free to create a Pull Request in case you find some new interesting awesome list, but before that verify if that same repo link isn't already a part of the existing list. In case of multiple links for a single topic, if they are forks of each other, please raise a PR to fix that with the latest fork's link.
+Please to create an issue in case of broken link and typos. Feel free to create a Pull Request in case you find some new interesting awesome list and wish to add it yourself or help out in completing the TODOs, but before that verify if that same repo link isn't already a part of the existing list. In case of multiple links for a single topic, if they are forks of each other, please raise a PR to fix that with the latest fork's link.
 
 
 # TODOs
