@@ -306,6 +306,5 @@ Please to create an issue in case of broken link, typos or topic request. Feel f
 
 # TODOs
 - [ ] Rearrange the topics in alphabetical order
-- [ ] Bifurcate or tag topics based on specialization (CV, NLP) etc
-- [ ] Add definitions for certain tasks
+- [ ] Add definitions for tasks if needed
 - [ ] Convert README to a tabular format
