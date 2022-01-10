@@ -269,6 +269,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Data Engineering
     * [Data Engineering link 1](https://github.com/igorbarinov/awesome-data-engineering)
     * [Data Engineering link 2](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
+* [Apache Spark](https://github.com/awesome-spark/awesome-spark)
 * [Data Labeling](https://github.com/heartexlabs/awesome-data-labelinhttps://github.com/heartexlabs/awesome-data-labelingg)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
 * Production level ML/DL
