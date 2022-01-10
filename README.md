@@ -249,9 +249,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Made With ML](https://github.com/GokuMohandas/MadeWithML)
 * [Guide to Pytorch Learning Rate Scheduling](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling)
 * PyTorch
-* [PyTorch link 1](https://github.com/bharathgs/Awesome-pytorch-list)
-* [PyTorch link 2](https://github.com/rickiepark/awesome-pytorch)
-* [PyTorch link 3](https://www.ritchieng.com/the-incredible-pytorch/)
+    * [PyTorch link 1](https://github.com/bharathgs/Awesome-pytorch-list)
+    * [PyTorch link 2](https://github.com/rickiepark/awesome-pytorch)
+    * [PyTorch link 3](https://www.ritchieng.com/the-incredible-pytorch/)
 * TensorFlow
     * [TensorFlow link 1](https://github.com/jtoy/awesome-tensorflow)
     * [TensorFlow link 2](https://github.com/Amin-Tgz/awesome-tensorflow-2)
