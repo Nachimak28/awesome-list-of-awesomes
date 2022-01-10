@@ -41,7 +41,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
 * [Contrastive learning](https://github.com/VainF/Awesome-Contrastive-Learning)
 * [Visual transformers](https://github.com/dk-liang/Awesome-Visual-Transformer)
-* [Transformers for vision](https://github.com/lijiaman/awesome-transformer-for-vision)
+* [Transformers for vision](https://github.com/lijiama  n/awesome-transformer-for-vision)
 * [Transformers](https://github.com/ictnlp/awesome-transformer)
 * [OpenSetRecognition list](https://github.com/iCGY96/awesome_OpenSetRecognition_list)
 * [Incremental learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
@@ -252,6 +252,12 @@ There are multiple lists for certain topics which may or may not have common lin
 * [PyTorch link 1](https://github.com/bharathgs/Awesome-pytorch-list)
 * [PyTorch link 2](https://github.com/rickiepark/awesome-pytorch)
 * [PyTorch link 3](https://www.ritchieng.com/the-incredible-pytorch/)
+* TensorFlow
+    * [TensorFlow link 1](https://github.com/jtoy/awesome-tensorflow)
+    * [TensorFlow link 2](https://github.com/Amin-Tgz/awesome-tensorflow-2)
+* JAX
+    * [JAX link 1](https://github.com/n2cholas/awesome-jax)
+    * [JAX link 2](https://giters.com/nikhilroxtomar/awesome-jax)
 
 # Data and ML lifecycle
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
