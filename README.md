@@ -50,6 +50,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Meta learning link 2](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 * [Deep learning uncertainty](https://github.com/ahmedmalaa/deep-learning-uncertainty)
 * [Semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+* [Instance Segmentation](https://github.com/YimingCuiCuiCui/awesome-instance-segmentation)
 * [Image Delineation](https://github.com/subeeshvasu/Awsome_Delineation)
 * Long tailed recognition/learning
     * [Long tailed recognition link 1](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)
