@@ -302,6 +302,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Python
     * [Python link 1](https://github.com/vinta/awesome-python)
     * [Python link 2](https://github.com/huangsam/ultimate-python)
+* [CUDA](https://github.com/Erkaman/Awesome-CUDA)
 * Microservices
     * [Microservices link 1](https://github.com/mfornos/awesome-microservices)
     * [Microservices link 2](https://github.com/ivan-bilan/The-Microservices-Pandect)
