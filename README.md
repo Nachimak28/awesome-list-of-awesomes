@@ -320,9 +320,10 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Knowledge graphs link 1](https://github.com/totogo/awesome-knowledge-graph)
     * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
 
-## Software Architecture Components
+# Other Awesome lists
+Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
 * [Full Text Search](https://github.com/Kikobeats/awesome-full-text-search)
-
+* [MapReduce](https://awesomeopensource.com/projects/mapreduce)
 
 
 # Contribution guide
