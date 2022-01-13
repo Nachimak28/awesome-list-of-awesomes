@@ -13,7 +13,7 @@ This is a simple aggregation of all of the "Awesome --Topic name--" github repos
 The topics are relevant to Data lifecycle, Machine Learning, Deep learning research and some distributed computing.
 
 Note: Not all of these links are actively maintained but some of them may serve as good starting points. 
-There are multiple lists for certain topics which may or may not have common links, I have added them with a serial number under the topic in no particular order. 
+There are multiple lists for certain topics which may or may not have common links, I have added them with a serial number under the topic in no particular order.
 
 # Topic wise ML and DL research
 
@@ -319,6 +319,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * Knowledge graphs
     * [Knowledge graphs link 1](https://github.com/totogo/awesome-knowledge-graph)
     * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
+
+## Software Architecture Components
+* [Full Text Search](https://github.com/Kikobeats/awesome-full-text-search)
+
 
 
 # Contribution guide
