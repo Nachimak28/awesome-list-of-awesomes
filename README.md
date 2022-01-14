@@ -270,6 +270,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Data Engineering link 1](https://github.com/igorbarinov/awesome-data-engineering)
     * [Data Engineering link 2](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 * [Apache Spark](https://github.com/awesome-spark/awesome-spark)
+* [BigQuery](https://github.com/coty/awesome-bigquery)
 * Workflow Engines/Pipelines/DAG schedulers
     * [Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
     * [Pipeline](https://github.com/pditommaso/awesome-pipeline)
