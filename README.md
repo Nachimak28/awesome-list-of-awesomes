@@ -275,6 +275,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
     * [Pipeline](https://github.com/pditommaso/awesome-pipeline)
     * [Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
+* [Dask](https://github.com/fkromer/awesome-dask)
 * [Data Labeling](https://github.com/heartexlabs/awesome-data-labelinhttps://github.com/heartexlabs/awesome-data-labelingg)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
 * Production level ML/DL
