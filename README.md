@@ -83,7 +83,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * Active learning
     * [Active learning link 1](https://github.com/yongjin-shin/awesome-active-learning)
     * [Active learning link 2](https://github.com/2006pmach/awesome-active-learning)
-* [Deep Reinforcement Learning](https://github.com/brianspiering/awesome-deep-rl)
+* Deep Reinforcement Learning
+    * [Deep Reinforcement Learning Link 1](https://github.com/brianspiering/awesome-deep-rl)
+    * [Deep Reinorcement Learning Link 2](https://github.com/kengz/awesome-deep-rl)
 * Knowledge Distillation
     * [Knowledge distillation link 1](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
     * [Knowledge distillation link 2](https://github.com/dkozlov/awesome-knowledge-distillation)
