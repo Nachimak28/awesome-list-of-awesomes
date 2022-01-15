@@ -283,6 +283,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Pipeline](https://github.com/pditommaso/awesome-pipeline)
     * [Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
 * [Dask](https://github.com/fkromer/awesome-dask)
+* [Graph Databases](https://github.com/jbmusso/awesome-graph)
 * [Data Labeling](https://github.com/heartexlabs/awesome-data-labelinhttps://github.com/heartexlabs/awesome-data-labelingg)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
 * Production level ML/DL
