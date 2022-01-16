@@ -280,7 +280,6 @@ There are multiple lists for certain topics which may or may not have common lin
     * [NoSQL link 2](https://github.com/jasonkying/awesome-NoSQL)
 * [Apache Spark](https://github.com/awesome-spark/awesome-spark)
 * [BigQuery](https://github.com/coty/awesome-bigquery)
-* [Dash/Plotly](https://github.com/ucg8j/awesome-dash)
 * Workflow Engines/Pipelines/DAG schedulers
     * [Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
     * [Pipeline](https://github.com/pditommaso/awesome-pipeline)
@@ -289,6 +288,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Dask](https://github.com/fkromer/awesome-dask)
 * [Graph Databases](https://github.com/jbmusso/awesome-graph)
 * [Data Labeling](https://github.com/heartexlabs/awesome-data-labelinhttps://github.com/heartexlabs/awesome-data-labelingg)
+* Data Visualization
+    * [Data Visualization](https://github.com/javierluraschi/awesome-dataviz)
+    * [Dash/Plotly](https://github.com/ucg8j/awesome-dash)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
 * Production level ML/DL
     * [Production level DL link 1](https://github.com/alirezadir/Production-Level-Deep-Learning)
