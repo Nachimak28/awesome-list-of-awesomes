@@ -275,6 +275,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [SQL Link 1](https://awesome-tech.readthedocs.io/databases/)
     * [SQL Link 2](https://github.com/danhuss/awesome-sql)
     * [SQL Link 3](https://github.com/mbiesiad/awesome-sql)
+* NoSQL
+    * [NoSQL link 1](https://github.com/erictleung/awesome-nosql-guides)
+    * [NoSQL link 2](https://github.com/jasonkying/awesome-NoSQL)
 * [Apache Spark](https://github.com/awesome-spark/awesome-spark)
 * [BigQuery](https://github.com/coty/awesome-bigquery)
 * [Dash/Plotly](https://github.com/ucg8j/awesome-dash)
