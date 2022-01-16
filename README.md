@@ -285,6 +285,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
     * [Pipeline](https://github.com/pditommaso/awesome-pipeline)
     * [Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
+* [Pandas](https://github.com/tommyod/awesome-pandas)
 * [Dask](https://github.com/fkromer/awesome-dask)
 * [Graph Databases](https://github.com/jbmusso/awesome-graph)
 * [Data Labeling](https://github.com/heartexlabs/awesome-data-labelinhttps://github.com/heartexlabs/awesome-data-labelingg)
@@ -319,6 +320,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Python
     * [Python link 1](https://github.com/vinta/awesome-python)
     * [Python link 2](https://github.com/huangsam/ultimate-python)
+* [Scientific Python](https://github.com/rossant/awesome-scientific-python)
 * [CUDA](https://github.com/Erkaman/Awesome-CUDA)
 * [Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
 * High Performance Computing (HPC)
