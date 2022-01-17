@@ -320,7 +320,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Deep Learning Design Patterns](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/books/deep-learning-design-patterns)
 * [PyTorch Computer Vision Cookbook - 70 recipes](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook)
 
-# Distributed systems and more
+# System Design, Distributed systems and more
 * [ASGI](https://github.com/florimondmanca/awesome-asgi)
 * [Distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
 * Python
@@ -335,6 +335,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Microservices
     * [Microservices link 1](https://github.com/mfornos/awesome-microservices)
     * [Microservices link 2](https://github.com/ivan-bilan/The-Microservices-Pandect)
+* [Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [Asyncio Python](https://github.com/timofurrer/awesome-asyncio)
 * Knowledge graphs
