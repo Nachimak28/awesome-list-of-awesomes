@@ -292,6 +292,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * Data Visualization
     * [Data Visualization](https://github.com/javierluraschi/awesome-dataviz)
     * [Dash/Plotly](https://github.com/ucg8j/awesome-dash)
+* Power BI
+    * [Power BI link 1](https://github.com/NajiElKotob/Awesome-Power-BI)
+    * [Power BI link 2](https://github.com/Rulikkk/awesome-power-bi)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
 * Production level ML/DL
     * [Production level DL link 1](https://github.com/alirezadir/Production-Level-Deep-Learning)
