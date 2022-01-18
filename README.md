@@ -41,7 +41,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
 * [Contrastive learning](https://github.com/VainF/Awesome-Contrastive-Learning)
 * [Visual transformers](https://github.com/dk-liang/Awesome-Visual-Transformer)
-* [Transformers for vision](https://github.com/lijiama  n/awesome-transformer-for-vision)
+* [Transformers for vision](https://github.com/lijiaman/awesome-transformer-for-vision)
 * [Transformers](https://github.com/ictnlp/awesome-transformer)
 * [OpenSetRecognition list](https://github.com/iCGY96/awesome_OpenSetRecognition_list)
 * [Incremental learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
