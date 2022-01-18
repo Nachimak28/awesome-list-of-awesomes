@@ -348,6 +348,7 @@ There are multiple lists for certain topics which may or may not have common lin
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
 * [Full Text Search](https://github.com/Kikobeats/awesome-full-text-search)
 * [MapReduce](https://awesomeopensource.com/projects/mapreduce)
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 
 # Contributing
