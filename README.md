@@ -358,7 +358,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Full Text Search](https://github.com/Kikobeats/awesome-full-text-search)
 * [MapReduce](https://awesomeopensource.com/projects/mapreduce)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
-
+* [Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
 
 # Contributing
 Check CONTRIBUTING.md
