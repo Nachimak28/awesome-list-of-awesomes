@@ -320,6 +320,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
 * [Kaggle Solutions](https://farid.one/kaggle-solutions/)
 * [Ethical AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
+* [SageMaker](https://github.com/aws/amazon-sagemaker-examples)
 
 # Cool books for modern ML, DL applications
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
