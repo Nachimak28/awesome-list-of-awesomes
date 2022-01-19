@@ -241,6 +241,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Mendeley Data](https://data.mendeley.com/research-data/)
     * [Academic Torrents](https://academictorrents.com/)
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Image processing applications with OpenCV](https://github.com/spmallick/learnopencv)
