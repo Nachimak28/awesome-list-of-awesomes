@@ -288,7 +288,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [NoSQL link 2](https://github.com/jasonkying/awesome-NoSQL)
 * [Apache Spark](https://github.com/awesome-spark/awesome-spark)
 * [BigQuery](https://github.com/coty/awesome-bigquery)
-* [BigData](https://project-awesome.org/onurakpolat/awesome-bigdata)
+* BigData
+    * [BigData link 1](https://project-awesome.org/onurakpolat/awesome-bigdata)
+    * [BigData link 2](https://github.com/0xnr/awesome-bigdata)
 * Workflow Engines/Pipelines/DAG schedulers
     * [Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
     * [Pipeline](https://github.com/pditommaso/awesome-pipeline)
@@ -352,6 +354,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Knowledge graphs
     * [Knowledge graphs link 1](https://github.com/totogo/awesome-knowledge-graph)
     * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
+* [Big]
 
 # Other Awesome lists
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
