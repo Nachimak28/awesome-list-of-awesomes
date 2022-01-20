@@ -334,6 +334,7 @@ There are multiple lists for certain topics which may or may not have common lin
 
 # System Design, Distributed systems and more
 * [ASGI](https://github.com/florimondmanca/awesome-asgi)
+* [Flask](https://github.com/humiaozuzu/awesome-flask)
 * [Distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
 * Python
     * [Python link 1](https://github.com/vinta/awesome-python)
@@ -354,7 +355,6 @@ There are multiple lists for certain topics which may or may not have common lin
 * Knowledge graphs
     * [Knowledge graphs link 1](https://github.com/totogo/awesome-knowledge-graph)
     * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
-* [Big]
 
 # Other Awesome lists
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
