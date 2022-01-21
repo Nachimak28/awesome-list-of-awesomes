@@ -364,6 +364,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
 * [CTO](https://github.com/kuchin/awesome-cto)
 * [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
+* [Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 
 # Contributing
 Check CONTRIBUTING.md
