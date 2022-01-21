@@ -348,6 +348,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Microservices
     * [Microservices link 1](https://github.com/mfornos/awesome-microservices)
     * [Microservices link 2](https://github.com/ivan-bilan/The-Microservices-Pandect)
+    * [Domain Driven Design](https://github.com/heynickc/awesome-ddd)
 * [Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
