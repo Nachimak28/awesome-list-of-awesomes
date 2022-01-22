@@ -358,6 +358,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Knowledge graphs link 1](https://github.com/totogo/awesome-knowledge-graph)
     * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
 
+
 # Other Awesome lists
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
 * [Full Text Search](https://github.com/Kikobeats/awesome-full-text-search)
@@ -368,6 +369,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 * [Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 * [Site Reliability Engineering(SRE)](https://github.com/dastergon/awesome-sre)
+* [Web Security](https://github.com/qazbnm456/awesome-web-security)
 
 # Contributing
 Check CONTRIBUTING.md
