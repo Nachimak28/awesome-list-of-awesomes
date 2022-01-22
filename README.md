@@ -268,6 +268,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * JAX
     * [JAX link 1](https://github.com/n2cholas/awesome-jax)
     * [JAX link 2](https://giters.com/nikhilroxtomar/awesome-jax)
+* [500 AI ML projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 # Data and ML lifecycle
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
