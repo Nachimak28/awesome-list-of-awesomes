@@ -353,6 +353,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 * [Asyncio Python](https://github.com/timofurrer/awesome-asyncio)
 * Knowledge graphs
     * [Knowledge graphs link 1](https://github.com/totogo/awesome-knowledge-graph)
