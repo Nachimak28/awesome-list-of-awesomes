@@ -269,7 +269,6 @@ There are multiple lists for certain topics which may or may not have common lin
     * [JAX link 1](https://github.com/n2cholas/awesome-jax)
     * [JAX link 2](https://giters.com/nikhilroxtomar/awesome-jax)
 * [500 AI ML projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-* [CoreML models](https://github.com/likedan/Awesome-CoreML-Models)
 
 # Data and ML lifecycle
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
@@ -327,7 +326,8 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Kaggle Solutions](https://farid.one/kaggle-solutions/)
 * [Ethical AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 * [SageMaker](https://github.com/aws/amazon-sagemaker-examples)
-* [GRPC](https://github.com/grpc-ecosystem/awesome-grpc)
+* [CoreML models](https://github.com/likedan/Awesome-CoreML-Models)
+
 
 # Cool books for modern ML, DL applications
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
@@ -338,6 +338,10 @@ There are multiple lists for certain topics which may or may not have common lin
 # System Design, Distributed systems and more
 * [ASGI](https://github.com/florimondmanca/awesome-asgi)
 * [Flask](https://github.com/humiaozuzu/awesome-flask)
+* Django
+    * [Django link 1](https://github.com/wsvincent/awesome-django)
+    * [Django link 2](https://github.com/shahraizali/awesome-django)
+    * [Django link 3](https://django.awesome-programming.com)
 * [Distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
 * Python
     * [Python link 1](https://github.com/vinta/awesome-python)
@@ -360,7 +364,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Knowledge graphs
     * [Knowledge graphs link 1](https://github.com/totogo/awesome-knowledge-graph)
     * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
-
+* [GRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 
 # Other Awesome lists
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
