@@ -327,6 +327,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Kaggle Solutions](https://farid.one/kaggle-solutions/)
 * [Ethical AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 * [SageMaker](https://github.com/aws/amazon-sagemaker-examples)
+* [GRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 
 # Cool books for modern ML, DL applications
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
