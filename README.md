@@ -379,6 +379,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Web Security](https://github.com/qazbnm456/awesome-web-security)
 * [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 * [ElasticSearch](https://github.com/dzharii/awesome-elasticsearch)
+* [Database Internals](https://github.com/pingcap/awesome-database-learning)
 
 # Contributing
 Check CONTRIBUTING.md
