@@ -378,6 +378,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Site Reliability Engineering(SRE)](https://github.com/dastergon/awesome-sre)
 * [Web Security](https://github.com/qazbnm456/awesome-web-security)
 * [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
+* [ElasticSearch](https://github.com/dzharii/awesome-elasticsearch)
 
 # Contributing
 Check CONTRIBUTING.md
