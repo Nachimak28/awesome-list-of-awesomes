@@ -270,7 +270,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [JAX link 2](https://giters.com/nikhilroxtomar/awesome-jax)
 * [500 AI ML projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
-# Data and ML lifecycle
+# Data and ML lifecycle, ML Infra
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
 * [Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
 * [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
@@ -327,7 +327,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Ethical AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 * [SageMaker](https://github.com/aws/amazon-sagemaker-examples)
 * [CoreML models](https://github.com/likedan/Awesome-CoreML-Models)
-
+* [Terraform](https://github.com/shuaibiyy/awesome-terraform)
 
 # Cool books for modern ML, DL applications
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
