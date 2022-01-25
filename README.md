@@ -380,6 +380,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 * [ElasticSearch](https://github.com/dzharii/awesome-elasticsearch)
 * [Database Internals](https://github.com/pingcap/awesome-database-learning)
+* [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 
 # Contributing
 Check CONTRIBUTING.md
