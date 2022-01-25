@@ -381,6 +381,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [ElasticSearch](https://github.com/dzharii/awesome-elasticsearch)
 * [Database Internals](https://github.com/pingcap/awesome-database-learning)
 * [Cryptography](https://github.com/sobolevn/awesome-cryptography)
+* [Tech Stacks](https://github.com/stackshareio/awesome-stacks)
 
 # Contributing
 Check CONTRIBUTING.md
