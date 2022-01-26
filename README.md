@@ -309,6 +309,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Power BI
     * [Power BI link 1](https://github.com/NajiElKotob/Awesome-Power-BI)
     * [Power BI link 2](https://github.com/Rulikkk/awesome-power-bi)
+* [Network analysis](https://github.com/briatte/awesome-network-analysis)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
 * [Docker](https://github.com/veggiemonk/awesome-docker)
 * Production level ML/DL
