@@ -17,6 +17,7 @@ There are multiple lists for certain topics which may or may not have common lin
 
 # Topic wise ML and DL research
 
+* [Math](https://github.com/rossant/awesome-math)
 * Data augmentation
     * [Data Augmentation link 1](https://github.com/CrazyVertigo/awesome-data-augmentation)
     * [Data Augmentation link 2](https://brunokrinski.github.io/awesome-data-augmentation/)
