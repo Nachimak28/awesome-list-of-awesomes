@@ -288,6 +288,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [SQL Link 1](https://awesome-tech.readthedocs.io/databases/)
     * [SQL Link 2](https://github.com/danhuss/awesome-sql)
     * [SQL Link 3](https://github.com/mbiesiad/awesome-sql)
+    * [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 * NoSQL
     * [NoSQL link 1](https://github.com/erictleung/awesome-nosql-guides)
     * [NoSQL link 2](https://github.com/jasonkying/awesome-NoSQL)
