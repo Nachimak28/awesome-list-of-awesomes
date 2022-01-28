@@ -257,6 +257,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Jupyter
     * [Jupyter](https://github.com/markusschanta/awesome-jupyter)
     * [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
+    * [Jupyter lab](https://github.com/mauhai/awesome-jupyterlab)
 * GPT 3
     * [GPT 3 link 1](https://github.com/mikhail-bot/awesome-gpt3)
     * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
