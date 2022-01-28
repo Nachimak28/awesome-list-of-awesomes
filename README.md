@@ -390,7 +390,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Tech Stacks](https://github.com/stackshareio/awesome-stacks)
 * [Geographic Information System(GIS)](https://github.com/sshuair/awesome-gis)
 * [GeoSpatial Tools](https://github.com/sacridini/Awesome-Geospatial)
-
+* [IoT](https://github.com/HQarroum/awesome-iot)
 
 # Contributing
 Check CONTRIBUTING.md
