@@ -73,6 +73,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Object Detection link 1](https://github.com/amusi/awesome-object-detection)
     * [Object Detection link 2](https://github.com/daicoolb/Awesome-Object-Detections)
     * [Object Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+    * [Object Detection papers](https://github.com/hoya012/deep_learning_object_detection)
 * Image Denoising
     * [Image Denoising link 1](https://github.com/oneTaken/Awesome-Denoise)
     * [Image Denoising link 2](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
@@ -258,6 +259,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Jupyter
     * [Jupyter](https://github.com/markusschanta/awesome-jupyter)
     * [Naas.ai Jupyter Templates for data projects](https://github.com/jupyter-naas/awesome-notebooks)
+    * [Jupyter lab](https://github.com/mauhai/awesome-jupyterlab)
 * GPT 3
     * [GPT 3 link 1](https://github.com/mikhail-bot/awesome-gpt3)
     * [GPT 3 link 2](https://github.com/elyase/awesome-gpt3)
@@ -391,7 +393,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Tech Stacks](https://github.com/stackshareio/awesome-stacks)
 * [Geographic Information System(GIS)](https://github.com/sshuair/awesome-gis)
 * [GeoSpatial Tools](https://github.com/sacridini/Awesome-Geospatial)
-
+* [IoT](https://github.com/HQarroum/awesome-iot)
 
 # Contributing
 Check CONTRIBUTING.md
