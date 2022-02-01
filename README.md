@@ -131,6 +131,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln)
 * [Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 * [Knowledge Graph Question Answering](https://github.com/BshoterJ/awesome-kgqa)
+* [Sentence embeddings](https://github.com/Separius/awesome-sentence-embedding)
 * Text Summarization
     * [Text Summarization link 1](https://github.com/mathsyouth/awesome-text-summarization)
     * [Text Summarization link 2](https://github.com/icoxfog417/awesome-text-summarization)
