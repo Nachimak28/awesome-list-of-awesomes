@@ -376,6 +376,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
 * [GRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 * [Peer-to-Peer](https://github.com/kgryte/awesome-peer-to-peer)
+* [ML-tooling: Best of Python](https://github.com/ml-tooling/best-of-python)
 
 # Other Awesome lists
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
