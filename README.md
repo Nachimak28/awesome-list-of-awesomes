@@ -347,6 +347,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [PyTorch Computer Vision Cookbook - 70 recipes](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook)
 
 # System Design, Distributed systems and more
+* [RESTful API](https://github.com/Kikobeats/awesome-api)
 * [ASGI](https://github.com/florimondmanca/awesome-asgi)
 * [Flask](https://github.com/humiaozuzu/awesome-flask)
 * Django
