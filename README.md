@@ -320,6 +320,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Network analysis](https://github.com/briatte/awesome-network-analysis)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
 * [Docker](https://github.com/veggiemonk/awesome-docker)
+* [Docker Compose](https://github.com/docker/awesome-compose)
 * Production level ML/DL
     * [Production level DL link 1](https://github.com/alirezadir/Production-Level-Deep-Learning)
     * [Production level DL link 2](https://github.com/ahkarami/Deep-Learning-in-Production)
