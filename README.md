@@ -281,6 +281,7 @@ There are multiple lists for certain topics which may or may not have common lin
 # Data and ML lifecycle, ML Infra
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
 * [Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
+* [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
 * [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * Web Scraping
     * [Web Scraping link 1](https://github.com/lorien/awesome-web-scraping)
