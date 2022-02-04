@@ -369,6 +369,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Kubernetes link 2](https://github.com/tomhuang12/awesome-k8s-resources)
     * [Kubernetes link 3](https://ramitsurana.github.io/awesome-kubernetes/projects/projects/)
     * [K8s Security](https://github.com/magnologan/awesome-k8s-security)
+* Ansible
+    * [Ansible link 1](https://github.com/KeyboardInterrupt/awesome-ansible)
+    * [Ansible link 2](https://github.com/jdauphant/awesome-ansible)
 * High Performance Computing (HPC)
     * [HPC link 1](https://github.com/koallen/awesome-hpc)
     * [HPC link 2](https://github.com/foxtrot9/awesome-hpc)
