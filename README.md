@@ -349,6 +349,9 @@ There are multiple lists for certain topics which may or may not have common lin
 # System Design, Distributed systems and more
 * [System Design](https://github.com/madd86/awesome-system-design)
 * [RESTful API](https://github.com/Kikobeats/awesome-api)
+* Webhooks
+    * [Webhooks link 1](https://github.com/realadeel/awesome-webhooks)
+    * [Webhooks link 2](https://github.com/CompSciLauren/awesome-webhooks)
 * [ASGI](https://github.com/florimondmanca/awesome-asgi)
 * [Flask](https://github.com/humiaozuzu/awesome-flask)
 * Django
