@@ -322,6 +322,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Power BI link 2](https://github.com/Rulikkk/awesome-power-bi)
 * [Network analysis](https://github.com/briatte/awesome-network-analysis)
 * [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
+* [Scikit Learn](https://github.com/fkromer/awesome-scikit-learn)
 * Production level ML/DL
     * [Production level DL link 1](https://github.com/alirezadir/Production-Level-Deep-Learning)
     * [Production level DL link 2](https://github.com/ahkarami/Deep-Learning-in-Production)
