@@ -289,6 +289,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * Data Engineering
     * [Data Engineering link 1](https://github.com/igorbarinov/awesome-data-engineering)
     * [Data Engineering link 2](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
+* Feature Engineering
+    * [Feature Engineering link 1](https://github.com/aikho/awesome-feature-engineering)
+    * [Feature Engineering link 2](https://github.com/ashishpatel26/Amazing-Feature-Engineering)
 * SQL
     * [SQL Link 1](https://awesome-tech.readthedocs.io/databases/)
     * [SQL Link 2](https://github.com/danhuss/awesome-sql)
