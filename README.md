@@ -328,6 +328,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Production level ML](https://github.com/EthicalML/awesome-production-machine-learning)
 * [ML system design](https://github.com/chiphuyen/machine-learning-systems-design)
 * [Applied ML](https://github.com/eugeneyan/applied-ml)
+* [ML Infrastructure](https://github.com/GHGmc2/awesome-ml-infra)
 * MLOps
     * [MLOps link 1](https://github.com/visenger/awesome-mlops)
     * [MLOps link 2](https://github.com/kelvins/awesome-mlops)
