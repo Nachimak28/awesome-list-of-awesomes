@@ -402,6 +402,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [AWS link 1](https://github.com/donnemartin/awesome-aws)
     * [AWS security](https://github.com/jassics/awesome-aws-security)
 * [Google Cloud Platform (GCP) Certifications](https://github.com/sathishvj/awesome-gcp-certifications)
+* Azure
+    * [Azure](https://github.com/kristofferandreasen/awesome-azure)
+    * [Azure learning](https://github.com/kristofferandreasen/awesome-azure)
 # Other Awesome lists
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
 * [Full Text Search](https://github.com/Kikobeats/awesome-full-text-search)
