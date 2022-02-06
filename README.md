@@ -405,6 +405,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Azure
     * [Azure](https://github.com/kristofferandreasen/awesome-azure)
     * [Azure learning](https://github.com/kristofferandreasen/awesome-azure)
+* [Digital Ocean (DO)](https://github.com/jonleibowitz/awesome-digitalocean)
 # Other Awesome lists
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
 * [Full Text Search](https://github.com/Kikobeats/awesome-full-text-search)
