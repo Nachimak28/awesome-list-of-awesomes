@@ -398,6 +398,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [GRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 * [Peer-to-Peer](https://github.com/kgryte/awesome-peer-to-peer)
 * [ML-tooling: Best of Python](https://github.com/ml-tooling/best-of-python)
+* Amazon Web Services (AWS)
+    * [AWS link 1](https://github.com/donnemartin/awesome-aws)
+    * [AWS security](https://github.com/jassics/awesome-aws-security)
 
 # Other Awesome lists
 Note: These lists are related to general concepts in Software architecture. They may or may not be completely related to Data lifecycle, ML and DL topics.
