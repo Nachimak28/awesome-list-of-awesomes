@@ -433,7 +433,9 @@ Note: These lists are related to general concepts in Software architecture. They
 * Quantum Computing
     * [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
     * [Quantum software](https://github.com/qosf/awesome-quantum-software)
-
+* Regex
+    * [Regex link 1](https://github.com/aloisdg/awesome-regex)
+    * [regex link 2](https://github.com/OpenCode/awesome-regex)
 # Contributing
 Check CONTRIBUTING.md
 
