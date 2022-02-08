@@ -436,6 +436,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * Regex
     * [Regex link 1](https://github.com/aloisdg/awesome-regex)
     * [regex link 2](https://github.com/OpenCode/awesome-regex)
+* [CS Video courses](https://github.com/Developer-Y/cs-video-courses)
 # Contributing
 Check CONTRIBUTING.md
 
