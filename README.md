@@ -305,6 +305,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * NoSQL
     * [NoSQL link 1](https://github.com/erictleung/awesome-nosql-guides)
     * [NoSQL link 2](https://github.com/jasonkying/awesome-NoSQL)
+* [DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)
 * [MongoDB](https://github.com/ramnes/awesome-mongodb)
 * [Apache Spark](https://github.com/awesome-spark/awesome-spark)
 * [BigQuery](https://github.com/coty/awesome-bigquery)
