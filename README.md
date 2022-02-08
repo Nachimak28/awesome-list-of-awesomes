@@ -189,6 +189,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Deep Geometrical Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
 * [Drug Discovery](https://github.com/xnuohz/awesome-drug-discovery)
 * [Representation Learning](https://github.com/Mehooz/awesome-representation-learning)
+* Disentangled Representations
+    * [Disentangled Representations link 1](https://github.com/koukyo1994/awesome-disentangled-representations)
+    * [Disentangled Representations link 2](https://github.com/sootlasten/disentangled-representation-papers)
 * Time series
     * [Time series link 1](https://github.com/cuge1995/awesome-time-series)
     * [Time series link 2](https://github.com/MaxBenChrist/awesome_time_series_in_python)
