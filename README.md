@@ -307,6 +307,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [NoSQL link 2](https://github.com/jasonkying/awesome-NoSQL)
 * [DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)
 * [MongoDB](https://github.com/ramnes/awesome-mongodb)
+* Firebase
+    * [Firebase link 1](https://github.com/jthegedus/awesome-firebase)
+    * [Firebase link 2](https://www.tefter.io/~awesome/lists/awesome-firebase)
 * [Apache Spark](https://github.com/awesome-spark/awesome-spark)
 * [BigQuery](https://github.com/coty/awesome-bigquery)
 * BigData
