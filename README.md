@@ -379,6 +379,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * Python
     * [Python link 1](https://github.com/vinta/awesome-python)
     * [Python link 2](https://github.com/huangsam/ultimate-python)
+* GraphQL
+    * [GraphQL link 1](https://github.com/chentsulin/awesome-graphql)
+    * [GraphQL link 2](https://github.com/joshblack/awesome-graphql)
+    * [GraphQL link 3](https://awesomerank.github.io/lists/chentsulin/awesome-graphql.html)
 * [Scientific Python](https://github.com/rossant/awesome-scientific-python)
 * [CUDA](https://github.com/Erkaman/Awesome-CUDA)
 * [Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
