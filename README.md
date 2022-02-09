@@ -413,6 +413,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Knowledge graphs link 2](https://github.com/frutik/awesome-knowledge-graphs)
 * [GRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 * [Peer-to-Peer](https://github.com/kgryte/awesome-peer-to-peer)
+* [RabbitMQ](https://github.com/johanrhodin/awesome-rabbitmq)
 * [ML-tooling: Best of Python](https://github.com/ml-tooling/best-of-python)
 * Amazon Web Services (AWS)
     * [AWS link 1](https://github.com/donnemartin/awesome-aws)
