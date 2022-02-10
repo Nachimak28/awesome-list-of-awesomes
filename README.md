@@ -281,6 +281,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [JAX link 2](https://giters.com/nikhilroxtomar/awesome-jax)
 * [500 AI ML projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 * [Tensorflow.js](https://github.com/aaronhma/awesome-tensorflow-js)
+* [HuggingFace](https://github.com/huggingface/awesome-huggingface)
 
 
 # Data and ML lifecycle, ML Infra
