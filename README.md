@@ -310,6 +310,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * Firebase
     * [Firebase link 1](https://github.com/jthegedus/awesome-firebase)
     * [Firebase link 2](https://www.tefter.io/~awesome/lists/awesome-firebase)
+* Redis
+    * [Redis](https://github.com/JamzyWang/awesome-redis)
+    * [Redis optimizations](https://github.com/pranavgupta1234/awesome-redis-optimizations)
 * [Apache Spark](https://github.com/awesome-spark/awesome-spark)
 * [BigQuery](https://github.com/coty/awesome-bigquery)
 * BigData
