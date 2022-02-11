@@ -283,7 +283,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [500 AI ML projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 * [Tensorflow.js](https://github.com/aaronhma/awesome-tensorflow-js)
 * [HuggingFace](https://github.com/huggingface/awesome-huggingface)
-
+* FastAI
+    * [FastAI link 1](https://github.com/ucalyptus/awesome-fastai)
+    * [FastAI link 2](https://github.com/isymbo/awesome-fastai)
 
 # Data and ML lifecycle, ML Infra
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
