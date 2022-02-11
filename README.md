@@ -383,6 +383,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Python
     * [Python link 1](https://github.com/vinta/awesome-python)
     * [Python link 2](https://github.com/huangsam/ultimate-python)
+    * [F-ing awesome python](https://github.com/trananhkma/fucking-awesome-python)
 * GraphQL
     * [GraphQL link 1](https://github.com/chentsulin/awesome-graphql)
     * [GraphQL link 2](https://github.com/joshblack/awesome-graphql)
