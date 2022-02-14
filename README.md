@@ -291,6 +291,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [FastAI link 2](https://github.com/isymbo/awesome-fastai)
 * [NLP recipes/Best practices](https://github.com/microsoft/nlp-recipes)
 * [Computer vision recipes/Best practices](https://github.com/microsoft/computervision-recipes)
+* [Time Series Forecasting - Best practices](https://github.com/microsoft/forecasting)
 # Data and ML lifecycle, ML Infra
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
 * [Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
