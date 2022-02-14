@@ -289,7 +289,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * FastAI
     * [FastAI link 1](https://github.com/ucalyptus/awesome-fastai)
     * [FastAI link 2](https://github.com/isymbo/awesome-fastai)
-
+* [NLP recipes/Best practices](https://github.com/microsoft/nlp-recipes)
 # Data and ML lifecycle, ML Infra
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
 * [Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
