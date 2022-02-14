@@ -467,6 +467,7 @@ Note: These lists are related to general concepts in Software architecture. They
     * [regex link 2](https://github.com/OpenCode/awesome-regex)
 * [CS Video courses](https://github.com/Developer-Y/cs-video-courses)
 * [ML-YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+* [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 # Contributing
 Check CONTRIBUTING.md
 
