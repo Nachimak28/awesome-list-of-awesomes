@@ -338,6 +338,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Data Visualization
     * [Data Visualization](https://github.com/javierluraschi/awesome-dataviz)
     * [Dash/Plotly](https://github.com/ucg8j/awesome-dash)
+* [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 * Power BI
     * [Power BI link 1](https://github.com/NajiElKotob/Awesome-Power-BI)
     * [Power BI link 2](https://github.com/Rulikkk/awesome-power-bi)
