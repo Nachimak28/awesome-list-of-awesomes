@@ -292,6 +292,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [NLP recipes/Best practices](https://github.com/microsoft/nlp-recipes)
 * [Computer vision recipes/Best practices](https://github.com/microsoft/computervision-recipes)
 * [Time Series Forecasting - Best practices](https://github.com/microsoft/forecasting)
+* [Access amd modify layes of pretrained models in PyTorch](https://github.com/mortezamg63/Accessing-and-modifying-different-layers-of-a-pretrained-model-in-pytorch)
 # Data and ML lifecycle, ML Infra
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
 * [Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
