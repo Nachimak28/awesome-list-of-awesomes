@@ -244,7 +244,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Federated Learning](https://github.com/poga/awesome-federated-learning)
     * [Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
     * [Federated Computing](https://github.com/tushar-semwal/awesome-federated-computing)
-
+* [Relational Extraction](https://github.com/roomylee/awesome-relation-extraction)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
