@@ -35,7 +35,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Adversarial Examples for Deep learning](https://github.com/chbrian/awesome-adversarial-examples-dl)
 * [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 * [Contrastive self supervised learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
-* [Zero shot learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning)
+* Zero shot learning
+    * [Zero shot learning link 1](https://github.com/sbharadwajj/awesome-zero-shot-learning)
+    * [Zero shot learning link 2](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning)
 * [One shot learning](https://awesomeopensource.com/projects/one-shot-learning)
 * [Few shot learning](https://github.com/e-271/awesome-few-shot-learning)
 * [Siamese networks](https://awesomeopensource.com/projects/siamese-network)
