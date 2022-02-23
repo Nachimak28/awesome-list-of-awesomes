@@ -248,6 +248,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Federated Computing](https://github.com/tushar-semwal/awesome-federated-computing)
 * [Relational Extraction](https://github.com/roomylee/awesome-relation-extraction)
 * [Attention Mechanism in Computer Vision](https://github.com/pprp/awesome-attention-mechanism-in-cv)
+* [Masked Image Modelling](https://github.com/ucasligang/awesome-MIM)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
