@@ -249,6 +249,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Relational Extraction](https://github.com/roomylee/awesome-relation-extraction)
 * [Attention Mechanism in Computer Vision](https://github.com/pprp/awesome-attention-mechanism-in-cv)
 * [Masked Image Modelling](https://github.com/ucasligang/awesome-MIM)
+* [Table Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
