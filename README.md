@@ -251,6 +251,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Masked Image Modelling](https://github.com/ucasligang/awesome-MIM)
 * [Table Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition)
 * [Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
+* [Music Generation](https://github.com/AI-Guru/music-generation-research)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
