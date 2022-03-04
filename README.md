@@ -243,7 +243,8 @@ There are multiple lists for certain topics which may or may not have common lin
     * [AI for climate change link 1](https://github.com/shankarj67/Awesome-Climate-Change-AI)
     * [AI for climate change link 2](https://github.com/juannat7/Awesome-Climate-AI)
 * Federated Learning
-    * [Federated Learning](https://github.com/poga/awesome-federated-learning)
+    * [Federated Learning link 1](https://github.com/poga/awesome-federated-learning)
+    * [Federated Learning link 2](https://github.com/weimingwill/awesome-federated-learning)
     * [Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
     * [Federated Computing](https://github.com/tushar-semwal/awesome-federated-computing)
 * [Relational Extraction](https://github.com/roomylee/awesome-relation-extraction)
