@@ -481,6 +481,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [CS Video courses](https://github.com/Developer-Y/cs-video-courses)
 * [ML-YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 * [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+* [Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 # Contributing
 Check CONTRIBUTING.md
 
