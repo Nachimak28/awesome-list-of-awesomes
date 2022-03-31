@@ -261,6 +261,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Harvard Dataverse](https://dataverse.harvard.edu/)
     * [Mendeley Data](https://data.mendeley.com/research-data/)
     * [Academic Torrents](https://academictorrents.com/)
+* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 * [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
