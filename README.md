@@ -314,6 +314,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Arxiv Daily](https://twitter.com/arXiv_Daily)
 # Data and ML lifecycle, ML Infra
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
+* [Public APIs](https://github.com/public-apis/public-apis)
 * [Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
 * [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
 * [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
