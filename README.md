@@ -157,6 +157,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Generative Modelling](https://github.com/zhoubolei/awesome-generative-modeling)
 * [Optical Flow](https://github.com/antran89/awesome-optical-flow-algorithm)
 * [360 vision](https://github.com/hsientzucheng/awesome-360-vision)
+* [Image Alignment and Stitching](https://github.com/tzxiang/awesome-image-alignment-and-stitching)
 * [Energy based models](https://github.com/yataobian/awesome-ebm)
 * [Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 * Gradient Boosting Models
