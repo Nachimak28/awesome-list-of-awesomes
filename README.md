@@ -494,6 +494,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [ML-YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 * [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 * [Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Concepts and Laws](https://github.com/lukasz-madon/awesome-concepts)
 # Contributing
 Check CONTRIBUTING.md
 
