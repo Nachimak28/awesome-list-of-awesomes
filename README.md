@@ -496,6 +496,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 * [Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Concepts and Laws](https://github.com/lukasz-madon/awesome-concepts)
+* [CS books and Digests](https://github.com/wx-chevalier/Awesome-CS-Books-and-Digests)
 # Contributing
 Check CONTRIBUTING.md
 
