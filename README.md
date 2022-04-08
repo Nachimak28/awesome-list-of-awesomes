@@ -259,6 +259,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [3D Generation](https://github.com/justimyhxu/awesome-3D-generation)
 * [Small Molecule - Drug Discovery ML](https://github.com/benb111/awesome-small-molecule-ml)
 * [Low light Image Enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)
+* [DehazeZoo](https://github.com/cxtalk/DehazeZoo)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
