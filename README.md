@@ -381,6 +381,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * MLOps
     * [MLOps link 1](https://github.com/visenger/awesome-mlops)
     * [MLOps link 2](https://github.com/kelvins/awesome-mlops)
+    * [MLOps link 3](https://github.com/fuzzylabs/awesome-open-mlops)
 * [AIOps](https://github.com/fititnt/awesome-aiops)
 * Explainable AI(XAI)
     * [Explainable AI (XAI) link 1](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
