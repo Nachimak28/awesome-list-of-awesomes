@@ -396,6 +396,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * DataBricks
     * [DataBricks link 1](https://github.com/reisdebora/awesome-databricks)
     * [DataBricks official resources](https://databricks.com/resources)
+* [ML stack of blogs of companies](https://github.com/enochkan/awesome-ml-stack)
 
 # Cool books for modern ML, DL applications
 * [ML Design Patterns](https://github.com/GoogleCloudPlatform/ml-design-patterns)
