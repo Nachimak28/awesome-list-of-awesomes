@@ -261,6 +261,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Small Molecule - Drug Discovery ML](https://github.com/benb111/awesome-small-molecule-ml)
 * [Low light Image Enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)
 * [DehazeZoo](https://github.com/cxtalk/DehazeZoo)
+* [ML for cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
