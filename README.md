@@ -323,7 +323,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
 * [Medical Imaging Datasets](https://github.com/sfikas/medical-imaging-datasets)
 * [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
-* [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* Public Datasets
+    * [Public Datasets link 1](https://github.com/awesomedata/awesome-public-datasets)
+    * [Public Datasets link 2](https://github.com/datasets/awesome-data)
 * Web Scraping
     * [Web Scraping link 1](https://github.com/lorien/awesome-web-scraping)
     * [Web Scraping link 2](https://github.com/duyet/awesome-web-scraper)
