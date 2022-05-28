@@ -279,6 +279,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Image processing applications with OpenCV](https://github.com/spmallick/learnopencv)
 * [DL papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [DL paper reading roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+* [ML Acronyms](https://github.com/AgaMiko/machine-learning-acronymss)
 * [Applied Deep Learning](https://github.com/maziarraissi/Applied-Deep-Learning)
 * NLP
     * [NLP link 1](https://github.com/keon/awesome-nlp)
