@@ -318,6 +318,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Crossminds](https://crossminds.ai/)
     * [DeepAI](https://deepai.org/)
     * [Arxiv Daily](https://twitter.com/arXiv_Daily)
+* [Math for ML](https://github.com/dair-ai/Mathematics-for-ML)
 # Data and ML lifecycle, ML Infra
 * [Data Collection](https://medium.com/mlearning-ai/how-to-build-a-scalable-data-collection-system-9703a2367735)
 * [Public APIs](https://github.com/public-apis/public-apis)
