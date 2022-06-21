@@ -79,6 +79,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Object Detection link 2](https://github.com/daicoolb/Awesome-Object-Detections)
     * [Object Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
     * [Object Detection papers](https://github.com/hoya012/deep_learning_object_detection)
+    * [YOLO Object detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection)
 * Image Denoising
     * [Image Denoising link 1](https://github.com/oneTaken/Awesome-Denoise)
     * [Image Denoising link 2](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
