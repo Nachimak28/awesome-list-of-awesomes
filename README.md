@@ -151,6 +151,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Graph Neural Networks (GNN) link 1](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks)
     * [Graph Neural Networks (GNN) link 2](https://github.com/thunlp/GNNPapers)
     * [Graph Neural Networks (GNN) link 3](https://github.com/mengliu1998/awesome-deep-gnn)
+    * [Expressive GNN](https://github.com/mengliu1998/awesome-expressive-gnn)
 * Generative Adversarial Networks (GAN)
     * [Generative Adversarial Networks (GAN) link 1](https://github.com/nightrome/really-awesome-gan)
     * [Generative Adversarial Networks (GAN) link 2](https://github.com/kozistr/Awesome-GANs)
