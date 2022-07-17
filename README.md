@@ -268,6 +268,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 * [Radiology Report generation](https://github.com/zhjohnchan/awesome-radiology-report-generation)
 * [Vision and Language](https://github.com/sangminwoo/awesome-vision-and-language)
+* [Machine Learning for Combinatorial Optimization](https://github.com/Thinklab-SJTU/awesome-ml4co)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
