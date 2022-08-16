@@ -23,6 +23,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Data Augmentation link 2](https://brunokrinski.github.io/awesome-data-augmentation/)
     * [Data Augmentation review](https://github.com/AgaMiko/data-augmentation-review)
 * [Multitask learning](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning)
+* Diffusion models
+    * [Diffusion models link 1](https://github.com/heejkoo/Awesome-Diffusion-Models)
+    * [Diffusion models link 2](https://github.com/hyungkwonko/awesome-diffusion-models)
 * Self supervised learning
     * [Self supervised learning link 1](https://github.com/jason718/awesome-self-supervised-learning)
     * [Self supervised learning link 2](https://github.com/wvangansbeke/Self-Supervised-Learning-Overview)
