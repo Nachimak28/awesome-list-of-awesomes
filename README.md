@@ -427,7 +427,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [PyTorch Computer Vision Cookbook - 70 recipes](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook)
 
 # System Design, Distributed systems and more
-* [System Design](https://github.com/madd86/awesome-system-design)
+* System Design
+  * [System Design link 1](https://github.com/madd86/awesome-system-design)
+  * [System Design link 2](https://github.com/karanpratapsingh/system-design)
 * [RESTful API](https://github.com/Kikobeats/awesome-api)
 * Webhooks
     * [Webhooks link 1](https://github.com/realadeel/awesome-webhooks)
