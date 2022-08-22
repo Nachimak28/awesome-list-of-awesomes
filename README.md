@@ -431,6 +431,7 @@ There are multiple lists for certain topics which may or may not have common lin
   * [System Design link 1](https://github.com/madd86/awesome-system-design)
   * [System Design link 2](https://github.com/karanpratapsingh/system-design)
 * [RESTful API](https://github.com/Kikobeats/awesome-api)
+* [Dev Ops Exercises](https://github.com/bregman-arie/devops-exercises)
 * Webhooks
     * [Webhooks link 1](https://github.com/realadeel/awesome-webhooks)
     * [Webhooks link 2](https://github.com/CompSciLauren/awesome-webhooks)
