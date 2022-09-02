@@ -26,6 +26,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Diffusion models
     * [Diffusion models link 1](https://github.com/heejkoo/Awesome-Diffusion-Models)
     * [Diffusion models link 2](https://github.com/hyungkwonko/awesome-diffusion-models)
+    * [Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 * Self supervised learning
     * [Self supervised learning link 1](https://github.com/jason718/awesome-self-supervised-learning)
     * [Self supervised learning link 2](https://github.com/wvangansbeke/Self-Supervised-Learning-Overview)
