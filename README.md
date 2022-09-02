@@ -162,6 +162,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Generative Adversarial Networks (GAN) link 2](https://github.com/kozistr/Awesome-GANs)
     * [GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
     * [GAN Applications](https://github.com/nashory/gans-awesome-applications)
+* [AI Art Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
 * [Generative Modelling](https://github.com/zhoubolei/awesome-generative-modeling)
 * [Optical Flow](https://github.com/antran89/awesome-optical-flow-algorithm)
 * [360 vision](https://github.com/hsientzucheng/awesome-360-vision)
