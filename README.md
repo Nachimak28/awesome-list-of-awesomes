@@ -45,7 +45,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Zero shot learning link 1](https://github.com/sbharadwajj/awesome-zero-shot-learning)
     * [Zero shot learning link 2](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning)
 * [One shot learning](https://awesomeopensource.com/projects/one-shot-learning)
-* [Few shot learning](https://github.com/e-271/awesome-few-shot-learning)
+* Few shot learning
+    * [Few shot learning link 1](https://github.com/e-271/awesome-few-shot-learning)
+    * [Few shot learning link 2](https://github.com/Duan-JM/awesome-papers-fewshot)
 * [Siamese networks](https://awesomeopensource.com/projects/siamese-network)
 * [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
 * [Contrastive learning](https://github.com/VainF/Awesome-Contrastive-Learning)
