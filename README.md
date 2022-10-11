@@ -280,6 +280,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Vision and Language](https://github.com/sangminwoo/awesome-vision-and-language)
 * [Machine Learning for Combinatorial Optimization](https://github.com/Thinklab-SJTU/awesome-ml4co)
 * [Dataset Distillation/Condensation](https://github.com/Guang000/Awesome-Dataset-Distillation)
+* [Virtual Try on](https://github.com/minar09/awesome-virtual-try-on)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
