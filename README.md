@@ -192,6 +192,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Causal Inference/ML Link 1](https://github.com/rguo12/awesome-causality-algorithms)
     * [Causal Inference/ML Link 2](https://github.com/imirzadeh/awesome-causal-inference)
     * [Causal Inference/ML Link 3](https://shubhanshu.com/awesome-causality/)
+    * [Causal Inference Visual Guides](https://github.com/kathoffman/causal-inference-visual-guides)
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 * Transfer learning, Domain Adaption & Domain Generalization
     * [Transfer learning, Domain Adaption & Domain Generalization link 1](https://github.com/artix41/awesome-transfer-learning)
