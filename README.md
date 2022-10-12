@@ -54,7 +54,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Visual transformers](https://github.com/dk-liang/Awesome-Visual-Transformer)
 * [Transformers for vision](https://github.com/lijiaman/awesome-transformer-for-vision)
 * [Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)
-* [Transformers](https://github.com/ictnlp/awesome-transformer)
+* Transformers
+    * [Transformers link 1](https://github.com/ictnlp/awesome-transformer)
+    * [Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers)
 * [OpenSetRecognition list](https://github.com/iCGY96/awesome_OpenSetRecognition_list)
 * [Incremental learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * Meta Learning
