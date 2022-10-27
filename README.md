@@ -65,6 +65,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Deep learning uncertainty](https://github.com/ahmedmalaa/deep-learning-uncertainty)
 * [Semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 * [Instance Segmentation](https://github.com/YimingCuiCuiCui/awesome-instance-segmentation)
+* [Box supervised Instance Segmentation](https://github.com/LiWentomng/Box-supervised-instance-segmentation)
 * [Referring Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
 * [Image Delineation](https://github.com/subeeshvasu/Awsome_Delineation)
 * Long tailed recognition/learning
