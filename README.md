@@ -285,6 +285,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Dataset Distillation/Condensation](https://github.com/Guang000/Awesome-Dataset-Distillation)
 * [Virtual Try on](https://github.com/minar09/awesome-virtual-try-on)
 * [Protein Design using DL](https://github.com/Peldom/papers_for_protein_design_using_DL)
+* [Novel Class Discovery](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
