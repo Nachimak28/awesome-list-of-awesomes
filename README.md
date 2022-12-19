@@ -289,6 +289,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Music Informatics](https://github.com/yamathcy/awesome-music-informatics)
 * [Discovery of Physical Laws](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws)
 * [CLIP (Contrastive Language-Image Pre-Training)](https://github.com/yzhuoning/Awesome-CLIP)
+* Content Based Image Retrieval
+    * [Content Based Image Retrieval Link 1](https://github.com/willard-yuan/awesome-cbir-papers)
+    * [Content Based Image Retrieval Link 2](https://github.com/lgbwust/awesome-image-retrieval-papers)
+
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
