@@ -292,6 +292,8 @@ There are multiple lists for certain topics which may or may not have common lin
 * Content Based Image Retrieval
     * [Content Based Image Retrieval Link 1](https://github.com/willard-yuan/awesome-cbir-papers)
     * [Content Based Image Retrieval Link 2](https://github.com/lgbwust/awesome-image-retrieval-papers)
+* [Topic Modeling](https://github.com/jonaschn/awesome-topic-models)
+
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
