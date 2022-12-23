@@ -295,6 +295,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Topic Modeling](https://github.com/jonaschn/awesome-topic-models)
 * [Vector Search](https://github.com/currentslab/awesome-vector-search)
 * [Clinical NLP](https://github.com/OHNLP/awesome-clinical-nlp)
+* [Medical Coding NLP](https://github.com/acadTags/Awesome-medical-coding-NLP)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
