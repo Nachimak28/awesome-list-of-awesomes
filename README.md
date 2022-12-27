@@ -302,6 +302,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Pretrained Chinese NLP models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
 * [Computer Vision in the Wild](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
 * [Mixture of Experts](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers)
+* [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
