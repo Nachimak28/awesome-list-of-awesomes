@@ -303,6 +303,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Computer Vision in the Wild](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
 * [Mixture of Experts](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers)
 * [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
+* [LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
