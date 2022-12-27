@@ -267,7 +267,9 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
     * [Federated Computing](https://github.com/tushar-semwal/awesome-federated-computing)
 * [Relational Extraction](https://github.com/roomylee/awesome-relation-extraction)
-* [Attention Mechanism in Computer Vision](https://github.com/pprp/awesome-attention-mechanism-in-cv)
+* Attention Mechanisms in Computer Vision
+    * [Attention Mechanism in Computer Vision](https://github.com/pprp/awesome-attention-mechanism-in-cv)
+    * [Vision Attentions Survey](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) 
 * [Masked Image Modelling](https://github.com/ucasligang/awesome-MIM)
 * [Table Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition)
 * [Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
