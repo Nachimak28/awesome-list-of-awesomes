@@ -304,6 +304,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Mixture of Experts](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers)
 * [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
 * [LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+* [Networks Beyond Attention](https://github.com/FocalNet/Networks-Beyond-Attention)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
