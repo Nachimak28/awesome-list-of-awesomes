@@ -306,6 +306,9 @@ There are multiple lists for certain topics which may or may not have common lin
 * [LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 * [Networks Beyond Attention](https://github.com/FocalNet/Networks-Beyond-Attention)
 * [Matching tasks](https://github.com/ZhengZixiang/MatchPapers)
+* Semantic Search
+    * [Semantic Search link 1](https://github.com/rom1504/awesome-semantic-search)
+    * [Semantic Search link 2](https://github.com/Agrover112/awesome-semantic-search)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
