@@ -567,6 +567,7 @@ Note: These lists are related to general concepts in Software architecture. They
 * [Concepts and Laws](https://github.com/lukasz-madon/awesome-concepts)
 * [CS books and Digests](https://github.com/wx-chevalier/Awesome-CS-Books-and-Digests)
 * [Self Hosted SaaS solutions](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [Search](https://github.com/frutik/awesome-search)
 # Contributing
 Check CONTRIBUTING.md
 
