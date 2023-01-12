@@ -309,6 +309,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * Semantic Search
     * [Semantic Search link 1](https://github.com/rom1504/awesome-semantic-search)
     * [Semantic Search link 2](https://github.com/Agrover112/awesome-semantic-search)
+* [GAN Inversion](https://github.com/weihaox/awesome-gan-inversion)
+
+
+
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
