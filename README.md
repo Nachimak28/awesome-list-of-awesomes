@@ -310,7 +310,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Semantic Search link 1](https://github.com/rom1504/awesome-semantic-search)
     * [Semantic Search link 2](https://github.com/Agrover112/awesome-semantic-search)
 * [GAN Inversion](https://github.com/weihaox/awesome-gan-inversion)
-
+* [Dynamic Graph Learning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
 
 
 # Generic ML, DL, CV, NLP lists
