@@ -311,7 +311,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Semantic Search link 2](https://github.com/Agrover112/awesome-semantic-search)
 * [GAN Inversion](https://github.com/weihaox/awesome-gan-inversion)
 * [Dynamic Graph Learning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
-
+* [Molecular Generation](https://github.com/amorehead/awesome-molecular-generation)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
