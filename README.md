@@ -314,6 +314,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Dynamic Graph Learning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
 * [Molecular Generation](https://github.com/amorehead/awesome-molecular-generation)
 * [Failed ML](https://github.com/kennethleungty/Failed-ML)
+* [Generative AI Applications](https://github.com/ai-collection/ai-collection)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
