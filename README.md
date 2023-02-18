@@ -313,7 +313,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [GAN Inversion](https://github.com/weihaox/awesome-gan-inversion)
 * [Dynamic Graph Learning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
 * [Molecular Generation](https://github.com/amorehead/awesome-molecular-generation)
-
+* [Failed ML](https://github.com/kennethleungty/Failed-ML)
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
