@@ -318,6 +318,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * ChatGPT
     * [ChatGPT link 1](https://github.com/shoaibahmed/awesome-ChatGPT)
 * [Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+* [Generative AI](https://github.com/filipecalegario/awesome-generative-ai)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
