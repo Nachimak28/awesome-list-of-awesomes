@@ -57,6 +57,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Transformers
     * [Transformers link 1](https://github.com/ictnlp/awesome-transformer)
     * [Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers)
+    * [Transformers link 2](https://github.com/abacaj/awesome-transformers)
 * [OpenSetRecognition list](https://github.com/iCGY96/awesome_OpenSetRecognition_list)
 * [Incremental learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * Meta Learning
