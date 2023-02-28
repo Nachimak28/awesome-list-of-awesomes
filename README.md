@@ -320,6 +320,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [ChatGPT link 1](https://github.com/shoaibahmed/awesome-ChatGPT)
 * [Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 * [Generative AI](https://github.com/filipecalegario/awesome-generative-ai)
+* [Conditional Content Generation](https://github.com/haofanwang/awesome-conditional-content-generation)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
