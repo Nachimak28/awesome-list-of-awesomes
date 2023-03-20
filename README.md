@@ -321,6 +321,10 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 * [Generative AI](https://github.com/filipecalegario/awesome-generative-ai)
 * [Conditional Content Generation](https://github.com/haofanwang/awesome-conditional-content-generation)
+* Large Language Models (LLM)
+    * [Large Language Models (LLM) link 1](https://github.com/Hannibal046/Awesome-LLM)
+    * [Large Language Models (LLM) link 2](https://github.com/TikkunCreation/awesome-llm)
+    
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
