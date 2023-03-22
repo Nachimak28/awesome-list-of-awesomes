@@ -327,6 +327,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [LangChain](https://github.com/kyrolabs/awesome-langchain)
 * Reinforcement Learning with Human Feedback(RLHF)
     * [RLHF Link 1](https://github.com/opendilab/awesome-RLHF)
+    * [RLHF Link 2](https://github.com/jordimas/awesome-RLHF-language-models)
 * [Totally open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [6D Object Pose Estimation and Reconstruction](https://github.com/ZhongqunZHANG/awesome-6d-object)
 
