@@ -99,6 +99,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Multimodal learning
     * [Multimodal learning link 1](https://github.com/pliang279/awesome-multimodal-ml)
     * [Multimodal learning link 2](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
+* [Multimodal Conversational AI](https://github.com/holylovenia/awesome-multimodal-convai)
 * Active learning
     * [Active learning link 1](https://github.com/yongjin-shin/awesome-active-learning)
     * [Active learning link 2](https://github.com/2006pmach/awesome-active-learning)
