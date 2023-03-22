@@ -326,6 +326,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Large Language Models (LLM) link 2](https://github.com/TikkunCreation/awesome-llm)
 * [LangChain](https://github.com/kyrolabs/awesome-langchain)
 * [Totally open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+* [6D Object Pose Estimation and Reconstruction](https://github.com/ZhongqunZHANG/awesome-6d-object)
     
 
 # Generic ML, DL, CV, NLP lists
