@@ -324,6 +324,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * Large Language Models (LLM)
     * [Large Language Models (LLM) link 1](https://github.com/Hannibal046/Awesome-LLM)
     * [Large Language Models (LLM) link 2](https://github.com/TikkunCreation/awesome-llm)
+* [LangChain](https://github.com/kyrolabs/awesome-langchain)
     
 
 # Generic ML, DL, CV, NLP lists
