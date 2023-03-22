@@ -325,9 +325,11 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Large Language Models (LLM) link 1](https://github.com/Hannibal046/Awesome-LLM)
     * [Large Language Models (LLM) link 2](https://github.com/TikkunCreation/awesome-llm)
 * [LangChain](https://github.com/kyrolabs/awesome-langchain)
+* Reinforcement Learning with Human Feedback(RLHF)
+    * [RLHF Link 1](https://github.com/opendilab/awesome-RLHF)
 * [Totally open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [6D Object Pose Estimation and Reconstruction](https://github.com/ZhongqunZHANG/awesome-6d-object)
-    
+
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
