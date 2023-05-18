@@ -335,7 +335,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [6D Object Pose Estimation and Reconstruction](https://github.com/ZhongqunZHANG/awesome-6d-object)
 * [Awesome Anything](https://github.com/VainF/Awesome-Anything)
 * [Pretrained models for Information Retrieval](https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval)
-
+* [AI Tools for Game development](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
