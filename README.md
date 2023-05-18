@@ -332,6 +332,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [RLHF Link 1](https://github.com/opendilab/awesome-RLHF)
     * [RLHF Link 2](https://github.com/jordimas/awesome-RLHF-language-models)
 * [LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+* [Instruction Dataset](https://github.com/yaodongC/awesome-instruction-dataset)
 * [Totally open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [6D Object Pose Estimation and Reconstruction](https://github.com/ZhongqunZHANG/awesome-6d-object)
 * [Awesome Anything](https://github.com/VainF/Awesome-Anything)
