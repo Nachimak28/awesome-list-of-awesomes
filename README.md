@@ -338,6 +338,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Awesome Anything](https://github.com/VainF/Awesome-Anything)
 * [Pretrained models for Information Retrieval](https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval)
 * [AI Tools for Game development](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev)
+* [Human Video Generation](https://github.com/yule-li/Human-Video-Generation)
 
 
 # Generic ML, DL, CV, NLP lists
