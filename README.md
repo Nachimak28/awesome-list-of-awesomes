@@ -326,6 +326,7 @@ There are multiple lists for certain topics which may or may not have common lin
     * [Large Language Models (LLM) link 1](https://github.com/Hannibal046/Awesome-LLM)
     * [Large Language Models (LLM) link 2](https://github.com/TikkunCreation/awesome-llm)
     * [LLM Zoo](https://github.com/FreedomIntelligence/LLMZoo)
+    * [LLM Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
 * [LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 * [LangChain](https://github.com/kyrolabs/awesome-langchain)
 * Reinforcement Learning with Human Feedback(RLHF)
