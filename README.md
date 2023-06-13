@@ -342,6 +342,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [AI Tools for Game development](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev)
 * [Human Video Generation](https://github.com/yule-li/Human-Video-Generation)
 * [Medical Vision-Language Models](https://github.com/yangzhou12/awesome-medical-vision-language-models)
+* [Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)
 
 # Generic ML, DL, CV, NLP lists
 * Data collection search engines
