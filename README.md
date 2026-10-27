@@ -340,6 +340,7 @@ There are multiple lists for certain topics which may or may not have common lin
 * [Awesome Anything](https://github.com/VainF/Awesome-Anything)
 * [Pretrained models for Information Retrieval](https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval)
 * [AI Tools for Game development](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev)
+* [RespawnStack](https://respawnstack.com) - Free directory of pricing, commercial-use and ownership terms for AI game-dev tools (source-cited)
 * [Human Video Generation](https://github.com/yule-li/Human-Video-Generation)
 * [Medical Vision-Language Models](https://github.com/yangzhou12/awesome-medical-vision-language-models)
 * [Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)
